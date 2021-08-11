@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/">
+   <partnerId>Cedecom</partnerId>
+   <channels>
+      <channel>
+         <title>rlaxx documentales</title>
+         <defineSeries>
+            <seriesId>1114586</seriesId>
+            <seriesTitle>Adam Title</seriesTitle>
+            <seriesDescription>Series description 2</seriesDescription>
+         </defineSeries>
+         <items>
+            <item>
+               <allowMix>1</allowMix>
+               <videoType>1</videoType>
+               <playoutType>3</playoutType>
+               <availableStart/>
+               <availableEnd/>
+               <language>en</language>
+               <year>2014</year>
+               <country/>
+               <guid isPermaLink="false">61781481</guid>
+               <title>The test Treatment</title>
+               <media:title>The test Treatment</media:title>
+               <media:category>Show Business</media:category>
+               <media:description>This unsettling murder mystery is a nail-biting suspense yarn wallowing in gritty themes of sexual violence and pedophilia. A detective is investigating a case where a mother and father have been bound and beaten, and their young son is missing. An obsessive loner, cop uncovers similar cases – tragedies where the parents were forced by a psychopath to harm their own children. Grim and wholly engrossing, The Treatment is a thriller with an edge.</media:description>
+               <media:content url="http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/6122285389001/770a40f0-1f5d-420f-93e2-1d3811bfc5d8/5e5484e3-b389-45c6-a693-c686dadba970/main.mp4?akamai_token=exp=1657894084~acl=/media/v1/pmp4/static/clear/6122285389001/770a40f0-1f5d-420f-93e2-1d3811bfc5d8/5e5484e3-b389-45c6-a693-c686dadba970/main.mp4*~hmac=81d05fffb6e4d9a8d047ef32eafc3f9cb345131daf5eb2b38a338a275802a86d" medium="video"/>
+               <media:thumbnail url="https://beacon.brightcove.com/revry/uploads/movies/3395_bf69e5201517da57dbecab0c72a78f50.jpg"/>
+               <media:restriction relationship="allow" type="country"/>
+               <media:rating>tv-ma</media:rating>
+               <media:runtime/>
+               <media:subtitles>
+                  <subtitle href="http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6122285389001/770a40f0-1f5d-420f-93e2-1d3811bfc5d8/0bcb2e2f-0f89-4335-98f1-a5cc60b52090/text.vtt?akamai_token=exp=1657894081~acl=/media/v1/text/vtt/clear/6122285389001/770a40f0-1f5d-420f-93e2-1d3811bfc5d8/0bcb2e2f-0f89-4335-98f1-a5cc60b52090/text.vtt*~hmac=ae0a9560d23c4d4c972608c645e811158b2c91909bcc67fe2b330b9d459d0e3b" type="text/webvtt" lang="en-US"/>
+               </media:subtitles>
+               <keywords>thriller,murder,Mystery,Queer,gay,action,suspense,violence,pedophilia,missing son</keywords>
+               <series/>
+               <pubDate>2014-01-01 00:00:00</pubDate>
+            </item>
+         </items>
+      </channel>
+   </channels>
+</rss>
