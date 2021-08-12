@@ -4,10 +4,16 @@
         <channel>
             <title>rlaxx documentales</title>
             <defineSeries>
-                <seriesId>648</seriesId>
-                <seriesTitle>edited 3 Andalucia</seriesTitle>
+                <seriesId>647</seriesId>
+                <seriesTitle>Andalucia</seriesTitle>
                 <seriesDescription>edted Beautiful description edited</seriesDescription>
                 <seriesThumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/01-Tierra_de_Legado_1.jpg"/>
+            </defineSeries>
+             <defineSeries>
+                <seriesId>648</seriesId>
+                <seriesTitle>Andalucia 2</seriesTitle>
+                <seriesDescription/>
+                <seriesThumbnail/>
             </defineSeries>
             <items>
                 <item>
@@ -31,7 +37,11 @@
                     <media:runtime/>
                     <media:subtitles/>
                     <keywords>aeronautica,aviacion,economia,sociedad</keywords>
-                    <series/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>3</seriesEpisodeNumber>
+                    </series>
                     <pubDate/>
                 </item>
                 <item>
@@ -56,7 +66,7 @@
                     <media:subtitles/>
                     <keywords/>
                     <series>
-                        <seriesId>647</seriesId>
+                        <seriesId>648</seriesId>
                         <seriesSeasonNumber>1</seriesSeasonNumber>
                         <seriesEpisodeNumber>3</seriesEpisodeNumber>
                     </series>
