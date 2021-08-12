@@ -1,0 +1,68 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/">
+    <partnerId>Cedecom</partnerId>
+    <channels>
+        <channel>
+            <title>rlaxx documentales</title>
+            <defineSeries>
+                <seriesId>647</seriesId>
+                <seriesTitle>edited Andalucia Patrimonio de la Humanidad edited</seriesTitle>
+                <seriesDescription>edted Beautiful description edited</seriesDescription>
+                <seriesThumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/01-Tierra_de_Legado_1.jpg"/>
+            </defineSeries>
+            <items>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64566</guid>
+                    <title>El Sueño de Ícaro - no series</title>
+                    <media:title>El Sueño de Ícaro - edited?</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Andalucía es junto con Tolousse y Hamburgo uno de los principales regiones del sector aeronáutico en Europa. En la Córdoba Califal, ya se intentaron los primeros vuelos. Hoy en día AIRBUS y el nuevo A400M actúan en esta tierra como verdadera cabeza tractora de un sector muy activo y que en cifras resulta ser el que más exporta de Andalucía. De la mano de los profesionales de la industria aeronáutica, historiadores, investigadores y artistas, este documental hace un recorrido sobre lo que fue, es y supone para esta tierra, su sector aeronáutico.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>aeronautica,aviacion,economia,sociedad</keywords>
+                    <series/>
+                    <pubDate/>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64594</guid>
+                    <title>Úbeda y Baeza - with series</title>
+                    <media:title>Úbeda y Baeza</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>Muchas ciudades que son vecinas comparten pasado, pero bastantes menos son las que, de la mano, encaminan el futuro y consiguen juntas logros como ser declaradas Patrimonio de la Humanidad. Desde el 2003, año de la declaración, las visitas turísticas a la zona han aumentado notablemente, incluso doblándose en el caso de Baeza. Ambas ciudades han enriquecido su arquitectura a media que transcurría la historia antigua y el Medievo, y la cultura llegada de influencias castellanas y andaluzas se aprecia incluso en la forma de ser de su gente. Pero es el Renacimiento el estilo que destaca en ambas localidades con una fuerza sin parecido en toda Andalucía. En este capítulo pasearemos por las calles de ambas ciudades, por su historia, su legado patrimonial y visitaremos joyas como el Palacio de Jabalquinto o la Catedral de Baeza.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/03-Ubeda_y_Baeza.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/03-Ubeda_y_Baeza.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>3</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                </item>
+            </items>
+        </channel>
+    </channels>
+</rss>
