@@ -19,7 +19,7 @@
                     <media:title>J. Atkinson Grimshaw : Various - path does not change -> old guid</media:title>
                     <media:category>Landscape</media:category>
                     <media:description>1) In Autumn's Gloden Glow 2) Roundhay Lake C. Merchan. Lounge Lizard</media:description>
-                    <media:content url="https://p-akam-connectedtv-tevolution-tv.akamaized.net/cloud/mediachain/630965/pmd_1080p.ism/download.mp4?hdnts=exp=1626780539~acl=/cloud/mediachain/630965/pmd_1080p.ism/*~id=ABg9Q2b3clgAORKl~hmac=c573b8cda1205a48f53af5b7cad0039bc483642d90b49a89a2664df674d0eba0" medium="video"/>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.mp4" medium="video"/>
                     <media:thumbnail url="https://static-alc-proxy-cover.akamaized.net/630965/776x436/0/0.jpg"/>
                     <media:restriction relationship="allow" type="country"/>
                     <media:rating>nonadult</media:rating>
@@ -46,7 +46,7 @@
                     <media:title>Raphael : Madonna in the Meadow - path new -> new guid</media:title>
                     <media:category>Religious</media:category>
                     <media:description>Franz Schubert. Ave Maria</media:description>
-                    <media:content url="https://p-akam-connectedtv-tevolution-tv.akamaized.net/cloud/mediachain/641091/pmd_1080p.ism/download.mp4?hdnts=exp=1626780542~acl=/cloud/mediachain/641091/pmd_1080p.ism/*~id=ABg9Q2erG-MAZUbl~hmac=63d55732fd05b11e7bbf0745cd7211c0996f46d9852045f8a17be48c01443b95" medium="video"/>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.mp4" medium="video"/>
                     <media:thumbnail url="https://static-alc-proxy-cover.akamaized.net/641091/776x436/0/0.jpg"/>
                     <media:restriction relationship="allow" type="country"/>
                     <media:rating>nonadult</media:rating>
