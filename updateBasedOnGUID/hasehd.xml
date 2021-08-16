@@ -59,6 +59,33 @@
                         <adBreak/>
                     </adBreaks>
                 </item>
+                 <item>
+                    <allowMix>0</allowMix>
+                    <videoType>4</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart>2017-09-26 08:16:04</availableStart>
+                    <availableEnd/>
+                    <language>en</language>
+                    <year/>
+                    <country/>
+                    <guid isPermaLink="false">313452</guid>
+                    <title>Raphael : Laura</title>
+                    <media:title>Raphael : Laura</media:title>
+                    <media:category>Religious</media:category>
+                    <media:description>Franz Schubert. Ave Maria</media:description>
+                    <media:content url="http://techslides.com/demos/sample-videos/small.mp4" medium="video"/>
+                    <media:thumbnail url="https://static-alc-proxy-cover.akamaized.net/641091/776x436/0/0.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>nonadult</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
             </items>
         </channel>
     </channels>
