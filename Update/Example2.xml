@@ -1,0 +1,115 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/">
+   <partnerId>Media Team Producciones</partnerId>
+   <channels>
+      <channel>
+         <title>Conexionsurfing</title>
+         <defineSeries>
+            <seriesId>288</seriesId>
+            <seriesTitle>Conexionsurfing</seriesTitle>
+            <seriesDescription>Sport magazine about surfing world</seriesDescription>
+            <seriesThumbnail url="http://video1.rlaxxtv.com/mtp/THUMBNAIL CONEXIONSURFING/CS_PGM_01_T1.png"/>
+         </defineSeries>
+         <defineSeries>
+            <seriesId>731</seriesId>
+            <seriesTitle>Flashsurfing Magazine</seriesTitle>
+            <seriesDescription>Revista deportiva sobre el mundo del surf</seriesDescription>
+            <seriesThumbnail url="http://video1.rlaxxtv.com/mtp/THUMBNAIL FLASHSURFING/Flashsurfing_capitulo_1.png"/>
+         </defineSeries>
+         <items>
+            <item>
+               <allowMix>1</allowMix>
+               <videoType>3</videoType>
+               <playoutType>3</playoutType>
+               <availableStart>2019-06-30 10:00:00</availableStart>
+               <availableEnd>2019-06-30 12:00:00</availableEnd>
+               <language>hu</language>
+               <year>2011</year>
+               <country>EN</country>
+               <guid isPermaLink="false">537804789</guid>
+               <title>Test 1 changed</title>
+               <media:title>Update All</media:title>
+               <media:category>Conexionsurfing</media:category>
+               <media:description>Updated</media:description>
+               <media:content url="https://cdn.jwplayer.com/videos/LMI1ZbDJ-y6rwAYmp.mp4" medium="video"/>
+               <media:thumbnail url="https://cdn.jwplayer.com/v2/media/LMI1ZbDJ/poster.jpg?width=720"/>
+               <media:restriction relationship="allow" type="country"/>
+               <media:rating/>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords>surf,lifestyle,nature,Magazine,surfer,competition</keywords>
+               <series>
+                  <seriesId>288</seriesId>
+                  <seriesSeasonNumber>1</seriesSeasonNumber>
+                  <seriesEpisodeNumber>1</seriesEpisodeNumber>
+               </series>
+               <pubDate>2019-06-30 00:00:00</pubDate>
+               <adBreaks>
+                  <adBreak>111</adBreak>
+               </adBreaks>
+            </item>
+            <item>
+               <allowMix>0</allowMix>
+               <videoType>4</videoType>
+               <playoutType>2</playoutType>
+               <availableStart>2019-06-30 00:00:00</availableStart>
+               <availableEnd>2019-06-30 00:00:00</availableEnd>
+               <language>en</language>
+               <year>2025</year>
+               <country>HU</country>
+               <guid isPermaLink="false">53784546</guid>
+               <title>Test 1</title>
+               <media:title>All required tags with data</media:title>
+               <media:category>Conexionsurfing</media:category>
+               <media:description>En el programa de hoy iniciaremos nuestro particular camino a Tokio con el surf como deporte olímpico en las próximas olimpiadas de 2020 // Veremos las espectaculares imágenes de la primera edición del Illa Pancha Challenge prueba celebrada en Ribadeo // Australia y la Gold Coast volvieron a ser el lugar de arranque del World Campionship Tour. Los mejores surfistas del mundo también estarán en Conexión Surfing</media:description>
+               <media:content url="http://video1.rlaxxtv.com/mtp/CS_PGM_01_T1.mov" medium="video"/>
+               <media:thumbnail url="http://video1.rlaxxtv.com/mtp/THUMBNAIL%20CONEXIONSURFING/CS_PGM_01_T1.png"/>
+               <media:restriction relationship="allow" type="country"/>
+               <media:rating/>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords>surf,lifestyle,nature,Magazine,surfer,competition</keywords>
+               <series>
+                  <seriesId>288</seriesId>
+                  <seriesSeasonNumber>1</seriesSeasonNumber>
+                  <seriesEpisodeNumber>1</seriesEpisodeNumber>
+               </series>
+               <pubDate>2019-06-30 00:00:00</pubDate>
+               <adBreaks>
+                  <adBreak>164.476</adBreak>
+               </adBreaks>
+            </item>
+            <item>
+               <allowMix>0</allowMix>
+               <videoType>4</videoType>
+               <playoutType>2</playoutType>
+               <availableStart>2019-06-30 00:00:00</availableStart>
+               <availableEnd>2019-06-30 00:00:00</availableEnd>
+               <language>en</language>
+               <year>2025</year>
+               <country>HU</country>
+               <guid isPermaLink="false">537802581</guid>
+               <title/>
+               <media:title/>
+               <media:category>Conexionsurfing</media:category>
+               <media:description/>
+               <media:content url="http://video1.rlaxxtv.com/mtp/CS_PGM_01_T1.mov" medium="video"/>
+               <media:thumbnail/>
+               <media:restriction relationship="allow" type="country"/>
+               <media:rating/>
+               <media:runtime/>
+               <media:subtitles href="https://kleague.spott-staging.sportradar.ag/storage/subtitles/126/de/512715.vtt"/>
+               <keywords>surf,lifestyle,nature,Magazine,surfer,competition</keywords>
+               <series>
+                  <seriesId>288</seriesId>
+                  <seriesSeasonNumber>1</seriesSeasonNumber>
+                  <seriesEpisodeNumber>1</seriesEpisodeNumber>
+               </series>
+               <pubDate>2019-06-30 00:00:00</pubDate>
+               <adBreaks>
+                  <adBreak>164.476</adBreak>
+               </adBreaks>
+            </item>
+         </items>
+      </channel>
+   </channels>
+</rss>
