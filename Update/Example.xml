@@ -38,7 +38,7 @@
                <media:subtitles href="https://kleague.spott-staging.sportradar.ag/storage/subtitles/126/de/512715.vtt"/>
                <keywords>surf,lifestyle,nature,Magazine,surfer,competition</keywords>
                <series>
-                  <seriesId>288</seriesId>
+                  <seriesId>289</seriesId>
                   <seriesSeasonNumber>1</seriesSeasonNumber>
                   <seriesEpisodeNumber>1</seriesEpisodeNumber>
                </series>
@@ -46,6 +46,31 @@
                <adBreaks>
                   <adBreak>164.476</adBreak>
                </adBreaks>
+            </item>
+            <item>
+               <allowMix/>
+               <videoType/>
+               <playoutType/>
+               <availableStart/>
+               <availableEnd/>
+               <language/>
+               <year/>
+               <country/>
+               <guid isPermaLink="false">537802581</guid>
+               <title/>
+               <media:title/>
+               <media:category>Conexionsurfing</media:category>
+               <media:description/>
+               <media:content url="http://video1.rlaxxtv.com/mtp/CS_PGM_01_T1.mov" medium="video"/>
+               <media:thumbnail/>
+               <media:restriction/>
+               <media:rating/>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords/>
+               <series/>
+               <pubDate/>
+               <adBreaks/>
             </item>
          </items>
       </channel>
