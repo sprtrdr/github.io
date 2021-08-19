@@ -1,1028 +1,1028 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/">
-<partnerId>Cedecom</partnerId>
-<channels>
-<channel>
-<title>rlaxx documentales</title>
-<defineSeries>
-<seriesId>647</seriesId>
-<seriesTitle>Andalucia Patrimonio de la Humanidad</seriesTitle>
-<seriesDescription/>
-<seriesThumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/01-Tierra_de_Legado_1.jpg"/>
-</defineSeries>
-<items>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year>3000<year/>
-<country>ES</country>
-<guid isPermaLink="false">64601</guid>
-<title>Granada</title>
-<media:title>Granada</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>Hay monumentos a los que su entorno acompaña en la belleza, la luz de plata del Mediterráneo, la nieve del macizo alpino más sureño, el agua oculta que brota, los jardines copiados a los del Edén. Todo eso envuelve a La Alhambra, pero en este caso semejante envoltorio no consigue superar en belleza a su epicentro. Arte, naturaleza, espiritualidad y mera belleza son los cuatro puntos cardinales para adentrarse en el palacio nazarí, tanto por sus salas, como por sus jardines creados para disfrutarlos con los cinco sentidos. El Albaicín contemplaba con superioridad en el siglo XI a la modesta alcazaba de la ciudad de Granada que se alzaba en frente. La Alhambra es un imposible real, testigo del pasado y monumento al futuro. El monumento más visitado de España, el más reconocido Patrimonio de la Humanidad, el símbolo de un mundo.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/10-Granada.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/10-Granada.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>10</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64600</guid>
-<title>La Cal de Morón</title>
-<media:title>La Cal de Morón</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>La cal, con su tacto fresco y el olor a limpio, nace de las entrañas de la tierra, de las canteras como las de Morón, en Sevilla. Su camino desde el mundo subterráneo se cruzará con los elementos básicos que señala la mitología: aire, agua, tierra y fuego. La cal vive en Morón de la Frontera manteniendo la industria artesanal que produce este material, unido desde los tiempos romanos a la cultura andaluza. Un oficio tan repleto de historia que ha merecido convertirse en Patrimonio Inmaterial de la Humanidad. Una mezcla de historia, industria, arte y antropología. Por eso es Patrimonio Inmaterial de la Humanidad. El mejor certificado de calidad para un producto digno de orgullo, un producto de bandera. Tanto, que forma parte de la que ondea como símbolo de Andalucía.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/09-La_Cal_de_Moron.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/09-La_Cal_de_Moron.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>9</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64599</guid>
-<title>Parque Natural de Doñana</title>
-<media:title>Parque Natural de Doñana</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>Doñana resulta tan real como imaginada. Este rincón de Andalucía ha estado envuelto en la bruma de lo desconocido fuera de su propia comarca y, por tanto, rodeado del aura de los mitos. El viento y el agua convirtieron un trozo de océano Atlántico en este espacio de paisajes tan variopintos. Monte, marisma, dunas y mar. Cuatro ecosistemas se combinan en el parque nacional con más distinciones de España. Entre ellas la de Patrimonio de la Humanidad. Cada uno de esos territorios ha creado su propia cultura humana. Hombres y mujeres que vivieron, y a la vez cuidaron, uno de los bosques más sagrados de Andalucía, en todos los sentidos.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/08-Donana.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/08-Donana.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>8</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64598</guid>
-<title>Arte Rupestre</title>
-<media:title>Arte Rupestre</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>Con pinceles untados de negros y rojos crearon en Almería, y también Jaén y Granada, un relato de su tiempo y sus preocupaciones en el período entre el Paleolítico y el Neolítico. El arte rupestre del arco mediterráneo se nos muestra lleno de misterios. Entre todos estos abrigos en la roca, unos fueron elegidos para servir de lienzos de piedra por los artistas, y otros no, por motivos que se desconocen. Supone el grupo más grande de sitios de arte rupestre de cualquier lugar de Europa. Proporciona una imagen excepcional de la vida humana en una fase crítica del desarrollo humano, que se representa gráficamente en pinturas únicas en estilo y en temática. Todo el arco mediterráneo español, desde Cataluña a Andalucía, se halla repleto de obras de arte rupestre, que han sido incluidas por la Unesco en su Lista de Patrimonio Mundial.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/07-Arte_Rupestre.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/07-Arte_Rupestre.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>7</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64597</guid>
-<title>Sevilla</title>
-<media:title>Sevilla</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>Desde que en 1987 fueron declarados Patrimonio de la Humanidad. Catedral, Alcázar y Archivo de Indias han consolidado su atractivo internacional y forman el motor de una de las ciudades más atractivas para el turismo. Un legado vivo que hay que disfrutar, divulgar y proteger. Desde el siglo X, y hasta el XIX, se sucede la historia alrededor de esta plaza sevillana. Un periodo durante el que la capital del reino almohade acabará convertida en la capital, de hecho, de Europa y América. Este emocionante paseo comienza en el siglo X en el recinto detrás de la puerta principal del Alcázar, cuando Abderramán III, el califa omeya que impulsó Medina Azahara, levanta una sede para su gobierno. La Giralda se exhibe justo enfrente desde el año 1200 como símbolo poderoso de la nueva mezquita, de la que todavía es posible disfrutar del patio de las abluciones. A su alrededor aparece hoy el templo gótico más grande de Europa. La Catedral llenó de constructores y arquitectos la ciudad en el siglo XV, y años después aparecerían desde todas partes del mundo marinos y buscavidas al reclamo de América.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/06-Sevilla.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/06-Sevilla.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>6</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64596</guid>
-<title>Tierra de Legado II</title>
-<media:title>Tierra de Legado II</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>En “Tierra de Legado. Parte II”, recorreremos Andalucía de punta a punta. Visitaremos Morón de la Frontera, el epicentro de la cal andaluza, un producto que nace de las entrañas de la tierra y que está presente en las blancas fachadas de las casas andaluzas, pero también en fastuosos palacios como la Alhambra. De Sevilla, a Almería, entre cuya rocosa naturaleza manos desconocidas dejaron pistas de su existencia diez mil años atrás. Alguien creó la pintura esquemática, un legado ancestral que hoy en día conforma el arte rupestre del Arco Mediterráneo, Patrimonio de la Humanidad. De Almería, viajaremos a Huelva para visitar Doñana, el espacio natural bisagra entre Europa y África donde se combinan varios ecosistemas, cada uno con su fauna, con su flora, con su olor. Acabaremos en Granada donde la imponente Alhambra, testigo del pasado y monumento al futuro, sigue siendo el monumento más visitado de España y el más reconocido Patrimonio de la Humanidad.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/05-Tierra_de_Legado_2.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/05-Tierra_de_Legado_2.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>5</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64595</guid>
-<title>Dólmenes de Antequera</title>
-<media:title>Dólmenes de Antequera</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>Las suaves colinas, apenas visibles en el horizonte de la fértil vega de Antequera, ocultan en su interior la expresión más impresionante del megalitismo en la península ibérica. Se trata de los dólmenes de Menga y Viera, y el tholos del Romeral. Por su tamaño y por sus características construc¬tivas, los megalitos antequeranos suponen un excepcional legado de la Prehistoria europea. Los tres monumentos nos permiten conocer las prácticas funera¬rias y los rituales de una sociedad prehistórica muy organizada durante el Neolítico. Un recinto declarado Patrimonio de la Humanidad al que además se suman dos hitos geológicos de gran valor: la Peña de los Enamorados y el Torcal. Ambos van mucho más allá de un mero decorado para los monumentos prehistóricos, pues forman parte de su misma existencia y ofrecen la clave para explicar el sitio megalítico a través de las orientaciones de los dólmenes.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/04-Dolmenes_de_Antequera.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/04-Dolmenes_de_Antequera.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>4</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64594</guid>
-<title>Úbeda y Baeza</title>
-<media:title>Úbeda y Baeza</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>Muchas ciudades que son vecinas comparten pasado, pero bastantes menos son las que, de la mano, encaminan el futuro y consiguen juntas logros como ser declaradas Patrimonio de la Humanidad. Desde el 2003, año de la declaración, las visitas turísticas a la zona han aumentado notablemente, incluso doblándose en el caso de Baeza. Ambas ciudades han enriquecido su arquitectura a media que transcurría la historia antigua y el Medievo, y la cultura llegada de influencias castellanas y andaluzas se aprecia incluso en la forma de ser de su gente. Pero es el Renacimiento el estilo que destaca en ambas localidades con una fuerza sin parecido en toda Andalucía. En este capítulo pasearemos por las calles de ambas ciudades, por su historia, su legado patrimonial y visitaremos joyas como el Palacio de Jabalquinto o la Catedral de Baeza.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/03-Ubeda_y_Baeza.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/03-Ubeda_y_Baeza.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>3</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64593</guid>
-<title>Córdoba</title>
-<media:title>Córdoba</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>Córdoba fue durante siglos el robusto y único puente de unión entre las dos mitades de Andalucía. Esta grandiosa ciudad cuenta con cuatro elementos designados como Patrimonio de la Humanidad, tres de los cuales se disfrutan en su extenso casco antiguo: el centro histórico, la Mezquita y la fiesta de los patios. Forman un todo armonioso, algo que se alcanza sólo tras siglos de culturas. En el capítulo de hoy nos perderemos por las calles del centro histórico de Córdoba, entraremos en la majestuosa Mezquita, símbolo del legado de diferentes culturas, nos dejaremos sorprender por sus viviendas tradicionales y la fiesta que cada mayo llena de vida sus patios y acabaremos el recorrido en la fastuosa Medina Azahara.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/02-Cordoba.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/02-Cordoba.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>2</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>2</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64592</guid>
-<title>Tierra de Legado I</title>
-<media:title>Tierra de Legado I</media:title>
-<media:category>Andalucia Patrimonio de la Humanidad</media:category>
-<media:description>En “Tierra de Legado. Parte I” visitaremos cuatro de estos hitos: el conjunto arqueológico de los Dólmenes de Antequera, que nos provoca el silencio primitivo del origen de los tiempos; la capital del califato, Medina Azahara, y la ciudad de Córdoba con su majestuosa Mezquita, su centro histórico y su fiesta de los patios de mayo; el triángulo mágico de la plaza del Triunfo de Sevilla, formado por el Alcázar, la Catedral y el Archivo de Indias, un conjunto monumental que resume medio milenio en primera línea de historia; y por último, pasearemos por el delicioso renacimiento de las ciudades hermanas de Úbeda y Baeza, cuyas calles y edificios son una obra de arte en sí mismos.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/01-Tierra_de_Legado_1.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/01-Tierra_de_Legado_1.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords/>
-<series>
-<seriesId>647</seriesId>
-<seriesSeasonNumber>1</seriesSeasonNumber>
-<seriesEpisodeNumber>1</seriesEpisodeNumber>
-</series>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64591</guid>
-<title>Bernardo de Gálvez, Un Legado Vivo</title>
-<media:title>Bernardo de Gálvez, Un Legado Vivo</media:title>
-<media:category>Documental</media:category>
-<media:description>Este documental trata de poner en valor la figura histórica de Bernardo de Gálvez y Madrid, vecino de Macharaviaya (Málaga). Galvez fue gobernador de Luisiana en EEUU y una de las figuras clave para la independencia americana. Recientemente, un retrato suyo ha viajado a Washington, para ser colgado en el congreso de Estados Unidos junto a los personajes más importantes de la historia norteamericana. La crisis económica ha obligado a un fortalecimiento de las relaciones entre Estados Unidos y la Unión Europea que se está traduciendo en el acuerdo comercial y de inversión más importante jamás celebrado. España, ante el importante desarrollo latino en Norteamérica, se encuentra en una situación privilegiada para participar de este importante proceso y ser nuevamente un eje clave en las relaciones entre ambos continentes como ya ocurrió a lo largo de la historia.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Bernardo_de_Galvez.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Bernardo_de_Galvez.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>historia,bernardo de galvez,independencia,estados unidos,españa,macharaviaya</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64590</guid>
-<title>El Futuro es Azul</title>
-<media:title>El Futuro es Azul</media:title>
-<media:category>Documental</media:category>
-<media:description>El futuro es azul, es un documental que versa sobre lo que representa la economía azul para Andalucía, ya que es la comunidad autónoma que posee la mayor longitud costera y la única con costa atlántica y mediterránea. El comercio, la innovación, la investigación y las nuevas tecnologías en torno al gigante azul abren "un mar" de oportunidades para la economía, el I+D y la sostenibilidad. Muchos son los sectores que se benefician de ello: turismo, industria, gastronomía, ocio, medio ambiente...</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/El_Futuro_es_Azul.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/El_Futuro_es_Azul.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>mar,oceano,medio ambiente,pesca,economia,sociedad</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64589</guid>
-<title>Por Buen Camino. Deporte Base</title>
-<media:title>Por Buen Camino. Deporte Base</media:title>
-<media:category>Documental</media:category>
-<media:description>Hoy en día el Deporte Base se entiende como la introducción a un estilo de vida saludable. Poco a poco la sociedad ha ido evolucionando y al mismo tiempo asimilando la importancia de una actividad como la deportiva, así como las grandes ventajas de la misma. Este documental cruza las historias de instituciones, adolescentes y familias que han hecho del deporte una forma de vida con la que están plenamente satisfechos y que siempre recomiendan.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Por_Buen_Camino.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Por_Buen_Camino.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>deporte base,educacion,deporte,actividad fisica,familia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64588</guid>
-<title>Energías Renovables</title>
-<media:title>Energías Renovables</media:title>
-<media:category>Documental</media:category>
-<media:description>Documental sobre las ventajas y el futuro de las energías renovables. Los distintos tipos y usos que se dan en Andalucía, una comunidad autónoma pionera en todo el mundo, por su labor en investigación y superficie destinada a estás nuevas formas limpias de obtención de energía.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Energias_Renovables.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Energias_Renovables.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>energia limpia,medio ambiente,economia,andalucia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64587</guid>
-<title>Buscando a Jorge, Looking for George</title>
-<media:title>Buscando a Jorge, Looking for George</media:title>
-<media:category>Documental</media:category>
-<media:description>Documental sobre George Campbell, uno de los mayores artistas irlandeses del siglo XX, que dejó su legado humano y artístico en lo que fueron sus dos patrias: Irlanda y Andalucía. George Campbell nació en Arklow, condado de Wicklow, Irlanda, en 1917, y fue uno de los más destacados pintores irlandeses de todos los tiempos. Miembro de la Real Academia de las Artes de Irlanda, Campbell fue un artista autodidacta, que no empezó a pintar hasta 1944, realizando su primera exposición sólo tres años más tarde. En 1951, visita España por primera vez. Esta fecha marcó su vida para siempre. Pues, a partir de este momento, vivió más de 6 meses al año en Málaga, convirtiendo a ésta en su segundo hogar y patria. Jorge, como se le conocía en esta tierra, dejó también su marca indeleble en sus amigos españoles y en el Arte, de los años 60 y 70, de la capital malagueña. George Campbell solo dejó de volver a España al morir, en 1979. Un año antes, el gobierno español le había concedido la Encomienda al Mérito Civil, en reconocimiento a su carrera y su labor de promoción de España en Irlanda.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Buscando_a_Jorge_Looking_For_George.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Buscando_a_Jorge_Looking_For_George.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>arte,pintura,george campbell,irlanda,andalucia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64586</guid>
-<title>Patrimonio Troglodítico</title>
-<media:title>Patrimonio Troglodítico</media:title>
-<media:category>Documental</media:category>
-<media:description>El documental, está basado en el Proyecto de Acción Conjunta de Cooperación para la salvaguarda y puesta en valor del Patrimonio Troglodítico realizado por Grupos de Desarrollo de toda Europa y encabezado por el Grupo de Desarrollo Rural de la Comarca de Guadix. El Trogloditismo está representado en prácticamente todo el mundo, allí donde el clima, las condiciones geológicas y una conjugación de factores históricos, económicos y socioculturales lo han hecho posible. Si bien existen varios monumentos o complejos monumentales troglodíticos inscritos como bienes culturales en los diversos catálogos de protección regionales o nacionales, y en especial en la Lista del Patrimonio Mundial de la UNESCO (Lalibela en Etiopia, Petra en Jordania, Goreme en Turquía...), la mayor parte de los conjuntos, y sobre todo los elementos aislados, carecen del reconocimiento como patrimonio cultural necesario para su salvaguarda.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Patrimonio_Trogloditico.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Patrimonio_Trogloditico.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>prehistoria,historia,trogloditismo,casa cueva</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64585</guid>
-<title>Etnosur Encuentro de Culturas</title>
-<media:title>Etnosur Encuentro de Culturas</media:title>
-<media:category>Documental</media:category>
-<media:description>Documental sobre el festival Etnosur que se celebra desde 1.997, el tercer fin de semana de Julio en Alcalá la Real (Jaén), Andalucía. Durante tres intensos días miles de personas de todas las edades participan en multitud de actividades para conocer más y mejor diferentes manifestaciones artísticas de todos los rincones del planeta. Es como dar un paseo por el mundo sin necesidad de abandonar un territorio. Son tiempos difíciles para la cultura y la diversidad, la ya célebre ‘aldea global’ ha venido y plantea el ya viejo dilema: o dentro o fuera. En Etnosur pensamos que dentro cabemos todos, que otro mundo no es solo posible sino necesario.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Etnosur_Un_Encuentro_de_Culturas.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Etnosur_Un_Encuentro_de_Culturas.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>festival,MUSICA,arte,culturas,etnica</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64584</guid>
-<title>Una Lección de Democracia</title>
-<media:title>Una Lección de Democracia</media:title>
-<media:category>Documental</media:category>
-<media:description>Documental que estudia la trayectoria de nuestra democracia desde su nacimiento hoy, con unas características muy peculiares: su localización, personajes y protagonistas. El documental se desarrolla íntegramente en Alcalá La Real (Jaén) y sus protagonistas, alcalaínos ligados férreamente a la palabra democracia desde los más diversos puntos de vista: política, urbanismo, patrimonio, arquitectura, información y un largo etcétera.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Una_Leccion_de_Democracia.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Una_Leccion_de_Democracia.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>historia,democracia,ayuntamientos,pueblos,politica,sociedad</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64583</guid>
-<title>El Sueño de Olavide</title>
-<media:title>El Sueño de Olavide</media:title>
-<media:category>Documental</media:category>
-<media:description>Bajo el reinado de Carlos III, se puso en marcha uno de los proyectos más revolu­cionarios de la historia moderna española: crear una serie de nuevas poblaciones junto al Camino Real que unía Cádiz con Madrid, una zona espe­cialmente despoblada. Para ello, trajeron a casi 8000 colonos extranje­ros a los que se les otorgaba una dotación real que incluía casa, tierra y animales. Hoy quedan en Andalucía casi 50 poblaciones o colonias que sorprenden por su ordenado traza­do, por los apellidos e incluso por los rasgos fisio­nómicos de sus habitantes. Hoy 250 años después de la llegada de sus antepasados tratan de revin­dicar sus orígenes.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Olavide.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Olavide.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>historia,olavide,ilustracion,nuevas poblaciones,sociedad</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64582</guid>
-<title>Entre Olivos</title>
-<media:title>Entre Olivos</media:title>
-<media:category>Documental</media:category>
-<media:description>Un campo de olivar es talado, ejemplares de más de 500 y 1000 años desaparecen, en un instante ante nuestra mirada, convertidos en leña. Unos pocos, los más viejos, los de mejor porte se libran del trágico final ; una enorme excavadora los arranca de raíz , los monta en un gran trailer emprendiendo un viaje a un lugar lejano donde nunca hubo olivos . Varias historias paralelas se suceden en este viaje.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Entre_Olivos.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Entre_Olivos.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>olivos,olivos milenarios,olivar,historia,social</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64581</guid>
-<title>Al Ándalus en el Espejo</title>
-<media:title>Al Ándalus en el Espejo</media:title>
-<media:category>Documental</media:category>
-<media:description>Andalucía era una parte importante del mítico Al-Andalus. Ocho siglos de presencia árabe han dejado una herencia enorme y viva entre nosotros. No sólo las pistas más visibles y monumentales de la Alhambra de Granada, la Mezquita de Córdoba o la Giralda de Sevilla. En nuestros pueblos y ciudades, la cultura árabe sobrevive de un modo dinámico. Pero aparte de aquella vista idílica del pasado, la llegada creciente de inmigrantes árabes trae a la sociedad española un debate público: ¿Nos gustan los árabes?¿Qué percepción tienen los españoles sobre Al-Andalus? ¿Tienen una imagen estereotipada de los musulmanes que viven en España? ¿Cuáles son sus opiniones sobre temas como religión, mujeres o terrorismo?</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Al-Andalus_en_el_Espejo.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Al-Andalus_en_el_Espejo.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>mulsuman,andalucia,cultura,historia,patrimonio,sociedad</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64580</guid>
-<title>Las Catedrales del Vino</title>
-<media:title>Las Catedrales del Vino</media:title>
-<media:category>Documental</media:category>
-<media:description>Desde el nacimiento de los primeros brotes en la primavera, hasta la vendimia en otoño y la poda en invierno, el documental "Las Catetrales del Vino" retrata los paisajes, arquitecturas e historias humanas que se dan cita en torno a las bodegas, en dos regiones que representan tipos de vino y culturas bien diferentes: Rioja y Jerez. Por medio de una compleja liturgia regida por las fuerzas de la naturaleza y la sabiduría del hombre, protegida por las normas de cada Denominación de Origen, se produce el milagro de la transformación de la uva cosechada, en vino con su propia y peculiar personalidad, que se consumirá asociado a diferentes ritos y costumbres sociales.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Las_Catedrales_del_Vino.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Las_Catedrales_del_Vino.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>vino,jerez,rioja,españa,vitivinicola,cultura,economia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64579</guid>
-<title>Galgos y Galgueros</title>
-<media:title>Galgos y Galgueros</media:title>
-<media:category>Documental</media:category>
-<media:description>El deporte de la caza con galgos en campo abierto es una pasión, una afición transmitida de padres a hijos, que ha llegado hasta nuestros días como uno de los deportes más bellos y, sin embargo, más desconocidos que existen en nuestro país, a pesar de que España es uno de los pocos lugares donde todavía se practica en toda su pureza.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Galgos_y_Galgueros.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Galgos_y_Galgueros.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>galgos,perros,deporte,sociedad</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64578</guid>
-<title>Guatemala Andalucía. Intercambio de Experiencias</title>
-<media:title>Guatemala Andalucía. Intercambio de Experiencias</media:title>
-<media:category>Documental</media:category>
-<media:description>Documental en el que se muestra el intercambio de experiencias entre productores guatemaltecos de la región de Huehuetenango y otros andaluces. Rodado en Guatemala y en Andalucía en el marco del programa de la Unión Europea de desarrollo rural y local en Guatemala PDRL/SERV/19/09</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Guatemala_Productores.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Guatemala_Productores.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>guatemala,andalucia,politica,sociedad,produccion</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64577</guid>
-<title>Pasaje a Hawai 1907-1913</title>
-<media:title>Pasaje a Hawai 1907-1913</media:title>
-<media:category>Documental</media:category>
-<media:description>En el año 1907 salió del puerto de Málaga el SS Heliópolis, el primer barco de emigrantes con destino a Hawai. Posteriormente partirían otros cinco barcos más con cerca de 8.000 personas más, casi todas andaluzas. Un sueldo, una casa y la futura nacionalidad americana, fue la promesa a cambio de trabajar en la caña de azúcar. Han pasado más de 100 años y esos primeros Spaniards son hoy miles, quizás millones. Por ello, las nuevas generaciones, se están reencontrando con sus viejas familias y con los lugares que dejaron atrás aquellos primeros pioneros, para tratar de reconstruir su historia.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Pasaje_a_Hawai.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Pasaje_a_Hawai.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>emigracion,migracion,andalucia,estados unidos,historia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64576</guid>
-<title>Guadaira. La Recuperación de un Sentimiento</title>
-<media:title>Guadaira. La Recuperación de un Sentimiento</media:title>
-<media:category>Documental</media:category>
-<media:description>Desde su nacimiento en Pozo Amargo hasta su desembocadura en el Guadalquivir, el río Guadaíra ha sido testigo mudo del paso del tiempo. Ahora, el rumor del agua se ha convertido en un narrador que relata el curso la historia, los avatares de la industrialización y la recuperación de la cuenca como un espacio de gran valor paisajístico y, también, antropológico. A lo largo de su cauce fluyen las historias personales de los habitantes de un municipio cuyas vidas acaban confluyendo en las aguas del Guadaíra. Un molinero, un panadero, un pescador, un cronista... Vidas cotidianas que han dotado al río de un valor propio y que han logrado hacer posible la recuperación de un sentimiento.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Guadaira_La_Recuperacion_de_un_Sentimiento.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Guadaira_La_Recuperacion_de_un_Sentimiento.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>sociedad,naturaleza,rio guadaira</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64575</guid>
-<title>Tras la Huella de Anibal</title>
-<media:title>Tras la Huella de Anibal</media:title>
-<media:category>Documental</media:category>
-<media:description>A través de testimonios de expertos en la historia y de historias de personas que después de 2.000 años viven en los mismos lugares en los que tuvieron lugar acontecimientos relacionados con la segunda guerra púnica, y a través de actividades y celebraciones realizadas en los mismos y que mantienen viva la memoria y el legado del general cartaginés. Nos detendremos en los enclaves jiennenses de la Batalla de Baécula, paraje del Cerro de las Albahacas, en Santo Tomé en la que lucharon los ejércitos cartaginés y romano, liderados los primeros por el hermano de Aníbal, Asdrúbal, en el año 208 a. C. y en el yacimiento arqueológico de Cástulo ligado al general cartaginés ya que la princesa de Cástulo, Himilce, se convirtió en su esposa sellando así una alianza entre Cartago y la ciudad íbera. Los innovadores métodos utilizados en la investigación y los recientes hallazgos arqueológicos serán buenos argumentos sobre las que giraran algunas de las tramas de esta película.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Tras_la_huella_de_Anibal.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Tras_la_huella_de_Anibal.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>historia,turismo,cartagineses,imperio romano</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64574</guid>
-<title>Historias del Baloncesto en Málaga</title>
-<media:title>Historias del Baloncesto en Málaga</media:title>
-<media:category>Documental</media:category>
-<media:description>Con las historias y testimonios de los personajes que vivieron la primera etapa de desarrollo del baloncesto en Málaga, se hace un recorrido por este deporte desde los inicios hasta lo que es hoy, una disciplina seguida por un gran número de personas y que tiene a Málaga como una de sus referencias en Europa.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Historias_de_Baloncesto_en_Malaga.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Historias_de_Baloncesto_en_Malaga.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>baloncesto,deporte,historia,malaga</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64573</guid>
-<title>Volver a Ser</title>
-<media:title>Volver a Ser</media:title>
-<media:category>Documental</media:category>
-<media:description>Las estadísticas suelen ser impersonales pero, en este caso, producen escalofríos: 700.000 mujeres son víctimas de malos tratos en España. Con motivo del Día Internacional para la Eliminación de la Violencia de Género, analizamos un drama social que incumbe a todos y que no entiende de edad, estatus socioeconómico o nacionalidad. Un paso a la vida es la historia de tres mujeres víctimas de violencia machista que un día vencieron el miedo, la vergüenza y la culpa, y se atrevieron a denunciar. Con la colaboración de psicólogos, trabajadoras sociales, maestros, e, incluso, alumnos de la Universidad de Málaga participantes en la Campaña “Los Buenos Tratos”, nos acercamos a esta cruda realidad.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Volver_a_Ser.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Volver_a_Ser.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>violecia de genero,violencia machista,sociedad</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64572</guid>
-<title>Las Bellas de Cádiz</title>
-<media:title>Las Bellas de Cádiz</media:title>
-<media:category>Documental</media:category>
-<media:description>Comedia documental con las actrices Chirigóticas y Chirigotas del Carnaval de Cádiz, donde cada año, se componen y cantan centenares de piezas satíricas sobre los grandes temas de la actualidad... "Sólo las palabras que andan, pasando de boca en boca, leyendas y cantos en la raiz del país, mantienen viva a la gente".</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Las_Bellas_de_Cadiz.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Las_Bellas_de_Cadiz.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>comedia,turismo,carnaval de cadiz,chirigota</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64571</guid>
-<title>De Úbeda a Baeza. Patrimonio de la Humanidad, Patrimonio Humano</title>
-<media:title>De Úbeda a Baeza. Patrimonio de la Humanidad, Patrimonio Humano</media:title>
-<media:category>Documental</media:category>
-<media:description>Documental sobre las ciudades Úbeda y Baeza de Jaén (Andalucía). El camino de Úbeda y Baeza hasta llegar a su reconocimiento como Ciudades Patrimonio de la Humanidad fue largo y tedioso. La justificación de su declaración por parte de UNESCO fue una propuesta que muestra la complementariedad de las dos ciudades, con una visión de conjunto de los dos centros urbanos, distantes apenas nueve kilómetros, como una unidad funcional que se ha desarrollado en el tiempo de forma paralela y a la vez convergente. La necesidad de visitarlas se convierte en una obligación, y ésta a su vez en devoción. No hacen falta palabras para explicar las razones que las han llevado a ser declaradas Ciudades Patrimonio de la Humanidad. Un simple paseo a cualquier hora o en cualquier época del año nos hace sentir que la historia y el arte, se encuentra en cada una de las piedras que dan forma a sus magníficos edificios, rincones o plazoletas.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/De_Ubeda_a_Baeza.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/De_Ubeda_a_Baeza.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>historia,turismo,patrimonio de la humanidad,andalucia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64570</guid>
-<title>Andalucía, La Huerta Europea</title>
-<media:title>Andalucía, La Huerta Europea</media:title>
-<media:category>Documental</media:category>
-<media:description>Documental sobre el sector hortofrutícola en Andalucía. La frutas y hortalizas andaluzas representan uno de los sectores que más ha crecido en los últimos tiempos. No en vano está considerada como la huerta de Europa. Fruto de su clima privilegiado y de una constante investigación e innovación, los productos andaluces son un referente en los mercados europeos. A través de sus protagonistas, cooperativas, agricultores, investigadores, científicos… Nos acercamos a esta realidad tan propia de nuestra comunidad.que más ha crecido en los últimos tiempos. Fruto de su clima privilegiado y de una constante investigación e innovación, los productos andaluces son un referente en los mercados europeos.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia_La_Huerta_Europea.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia_La_Huerta_Europea.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>agricultura,vegetales,sector agricola,frutas,andalucia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64569</guid>
-<title>Tierra de Vinos</title>
-<media:title>Tierra de Vinos</media:title>
-<media:category>Documental</media:category>
-<media:description>Documental completo sobre los vinos y el sector vitivinícola en Andalucía. Una tradición milenaria en el cultivo de la vid y la elaboración de vinos, que se remonta a las primeras civilizaciones asentadas en esta tierra. Un clima típicamente mediterráneo, con precipitaciones irregulares, inviernos suaves y veranos muy calurosos y secos, ha sido idóneo para la producción de vinos con características singulares y de excelente calidad, que forman parte inseparable de la identidad y cultura andaluzas y han alcanzado una gran notoriedad a nivel mundial desde hace muchos siglos. Conoceremos las variedades y denominaciones de origen, así como el estado y futuro de un sector tan importante para nuestra comunidad.muy preocupante. Los precios, con unas oscilaciones muy bruscas, han contribuido a una reducción de los márgenes de la explotación, que dificultan la supervivencia de algunas. Aprovechando la presente campaña, haremos un recorrido por el presente y el futuro de un sector de tanta trascendencia para nuestra sociedad, de la mano de jornaleros, propietarios de explotaciones, fabricantes, distribuidores, envasadores, cocineros, dietistas, juristas, etc. Analizaremos el estado de las infraestructuras existentes, las circunstancias que influyen en el precio del aceite, aplicaciones diferentes al consumo y qué se puede esperar para este sector en un futuro.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Tierra_de_Vinos.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Tierra_de_Vinos.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>vino,vinos de andalucia,andalucia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64568</guid>
-<title>Tierra de Olivos</title>
-<media:title>Tierra de Olivos</media:title>
-<media:category>Documental</media:category>
-<media:description>Coincidiendo con la crisis actual, el sector del aceite de oliva está atravesando una etapa de incertidumbre muy preocupante. Los precios, con unas oscilaciones muy bruscas, han contribuido a una reducción de los márgenes de la explotación, que dificultan la supervivencia de algunas. Aprovechando la presente campaña, haremos un recorrido por el presente y el futuro de un sector de tanta trascendencia para nuestra sociedad, de la mano de jornaleros, propietarios de explotaciones, fabricantes, distribuidores, envasadores, cocineros, dietistas, juristas, etc. Analizaremos el estado de las infraestructuras existentes, las circunstancias que influyen en el precio del aceite, aplicaciones diferentes al consumo y qué se puede esperar para este sector en un futuro.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Tierra_de_Olivos.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Tierra_de_Olivos.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>aceite de oliva,olivo,oliva,andalucia</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year/>
-<country>ES</country>
-<guid isPermaLink="false">64567</guid>
-<title>Oficio de pintor, oficio de vivir</title>
-<media:title>Oficio de pintor, oficio de vivir</media:title>
-<media:category>Documental</media:category>
-<media:description>Este documental presenta lo sorprendente del proceso de inspiración, gestación y culminación de dos cuadros por dos pintores con dos estilos diferentes pero unidos por la soledad del trabajo y la lealtad a la obra. Un repaso a la vida y a la obra de los pintores JOSÉ HERNÁNDEZ y ROBERT HARVEY, dos artistas que desempeñan su actividad en dos pequeños pueblos de la provincia de Málaga (Villanueva del Rosario y Macharaviaya). Visión particular de su obra relatada en primera persona por los propios protagonistas.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/Oficio_de_Pintor_Oficio_de_vivir.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Oficio_de_Pintor_Oficio_de_Vivir.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>arte,pintura,pintores</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>1</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>es</language>
-<year>3000<year/>
-<country>ES</country>
-<guid isPermaLink="false">64566</guid>
-<title>El Sueño de Ícaro</title>
-<media:title>El Sueño de Ícaro</media:title>
-<media:category>Documental</media:category>
-<media:description>Andalucía es junto con Tolousse y Hamburgo uno de los principales regiones del sector aeronáutico en Europa. En la Córdoba Califal, ya se intentaron los primeros vuelos. Hoy en día AIRBUS y el nuevo A400M actúan en esta tierra como verdadera cabeza tractora de un sector muy activo y que en cifras resulta ser el que más exporta de Andalucía. De la mano de los profesionales de la industria aeronáutica, historiadores, investigadores y artistas, este documental hace un recorrido sobre lo que fue, es y supone para esta tierra, su sector aeronáutico.</media:description>
-<media:content url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.mp4" medium="video"/>
-<media:thumbnail url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.jpg"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>MPAA R</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>aeronautica,aviacion,economia,sociedad</keywords>
-<series/>
-<pubDate/>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-</items>
-</channel>
-</channels>
+    <partnerId>Cedecom</partnerId>
+    <channels>
+        <channel>
+            <title>rlaxx documentales</title>
+            <defineSeries>
+                <seriesId>647</seriesId>
+                <seriesTitle>Andalucia Patrimonio de la Humanidad</seriesTitle>
+                <seriesDescription/>
+                <seriesThumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/01-Tierra_de_Legado_1.jpg"/>
+            </defineSeries>
+            <items>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year>3000<year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64601</guid>
+                    <title>Granada</title>
+                    <media:title>Granada</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>Hay monumentos a los que su entorno acompaña en la belleza, la luz de plata del Mediterráneo, la nieve del macizo alpino más sureño, el agua oculta que brota, los jardines copiados a los del Edén. Todo eso envuelve a La Alhambra, pero en este caso semejante envoltorio no consigue superar en belleza a su epicentro. Arte, naturaleza, espiritualidad y mera belleza son los cuatro puntos cardinales para adentrarse en el palacio nazarí, tanto por sus salas, como por sus jardines creados para disfrutarlos con los cinco sentidos. El Albaicín contemplaba con superioridad en el siglo XI a la modesta alcazaba de la ciudad de Granada que se alzaba en frente. La Alhambra es un imposible real, testigo del pasado y monumento al futuro. El monumento más visitado de España, el más reconocido Patrimonio de la Humanidad, el símbolo de un mundo.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/10-Granada.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/10-Granada.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>10</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64600</guid>
+                    <title>La Cal de Morón</title>
+                    <media:title>La Cal de Morón</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>La cal, con su tacto fresco y el olor a limpio, nace de las entrañas de la tierra, de las canteras como las de Morón, en Sevilla. Su camino desde el mundo subterráneo se cruzará con los elementos básicos que señala la mitología: aire, agua, tierra y fuego. La cal vive en Morón de la Frontera manteniendo la industria artesanal que produce este material, unido desde los tiempos romanos a la cultura andaluza. Un oficio tan repleto de historia que ha merecido convertirse en Patrimonio Inmaterial de la Humanidad. Una mezcla de historia, industria, arte y antropología. Por eso es Patrimonio Inmaterial de la Humanidad. El mejor certificado de calidad para un producto digno de orgullo, un producto de bandera. Tanto, que forma parte de la que ondea como símbolo de Andalucía.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/09-La_Cal_de_Moron.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/09-La_Cal_de_Moron.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>9</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64599</guid>
+                    <title>Parque Natural de Doñana</title>
+                    <media:title>Parque Natural de Doñana</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>Doñana resulta tan real como imaginada. Este rincón de Andalucía ha estado envuelto en la bruma de lo desconocido fuera de su propia comarca y, por tanto, rodeado del aura de los mitos. El viento y el agua convirtieron un trozo de océano Atlántico en este espacio de paisajes tan variopintos. Monte, marisma, dunas y mar. Cuatro ecosistemas se combinan en el parque nacional con más distinciones de España. Entre ellas la de Patrimonio de la Humanidad. Cada uno de esos territorios ha creado su propia cultura humana. Hombres y mujeres que vivieron, y a la vez cuidaron, uno de los bosques más sagrados de Andalucía, en todos los sentidos.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/08-Donana.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/08-Donana.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>8</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64598</guid>
+                    <title>Arte Rupestre</title>
+                    <media:title>Arte Rupestre</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>Con pinceles untados de negros y rojos crearon en Almería, y también Jaén y Granada, un relato de su tiempo y sus preocupaciones en el período entre el Paleolítico y el Neolítico. El arte rupestre del arco mediterráneo se nos muestra lleno de misterios. Entre todos estos abrigos en la roca, unos fueron elegidos para servir de lienzos de piedra por los artistas, y otros no, por motivos que se desconocen. Supone el grupo más grande de sitios de arte rupestre de cualquier lugar de Europa. Proporciona una imagen excepcional de la vida humana en una fase crítica del desarrollo humano, que se representa gráficamente en pinturas únicas en estilo y en temática. Todo el arco mediterráneo español, desde Cataluña a Andalucía, se halla repleto de obras de arte rupestre, que han sido incluidas por la Unesco en su Lista de Patrimonio Mundial.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/07-Arte_Rupestre.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/07-Arte_Rupestre.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>7</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64597</guid>
+                    <title>Sevilla</title>
+                    <media:title>Sevilla</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>Desde que en 1987 fueron declarados Patrimonio de la Humanidad. Catedral, Alcázar y Archivo de Indias han consolidado su atractivo internacional y forman el motor de una de las ciudades más atractivas para el turismo. Un legado vivo que hay que disfrutar, divulgar y proteger. Desde el siglo X, y hasta el XIX, se sucede la historia alrededor de esta plaza sevillana. Un periodo durante el que la capital del reino almohade acabará convertida en la capital, de hecho, de Europa y América. Este emocionante paseo comienza en el siglo X en el recinto detrás de la puerta principal del Alcázar, cuando Abderramán III, el califa omeya que impulsó Medina Azahara, levanta una sede para su gobierno. La Giralda se exhibe justo enfrente desde el año 1200 como símbolo poderoso de la nueva mezquita, de la que todavía es posible disfrutar del patio de las abluciones. A su alrededor aparece hoy el templo gótico más grande de Europa. La Catedral llenó de constructores y arquitectos la ciudad en el siglo XV, y años después aparecerían desde todas partes del mundo marinos y buscavidas al reclamo de América.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/06-Sevilla.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/06-Sevilla.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>6</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64596</guid>
+                    <title>Tierra de Legado II</title>
+                    <media:title>Tierra de Legado II</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>En “Tierra de Legado. Parte II”, recorreremos Andalucía de punta a punta. Visitaremos Morón de la Frontera, el epicentro de la cal andaluza, un producto que nace de las entrañas de la tierra y que está presente en las blancas fachadas de las casas andaluzas, pero también en fastuosos palacios como la Alhambra. De Sevilla, a Almería, entre cuya rocosa naturaleza manos desconocidas dejaron pistas de su existencia diez mil años atrás. Alguien creó la pintura esquemática, un legado ancestral que hoy en día conforma el arte rupestre del Arco Mediterráneo, Patrimonio de la Humanidad. De Almería, viajaremos a Huelva para visitar Doñana, el espacio natural bisagra entre Europa y África donde se combinan varios ecosistemas, cada uno con su fauna, con su flora, con su olor. Acabaremos en Granada donde la imponente Alhambra, testigo del pasado y monumento al futuro, sigue siendo el monumento más visitado de España y el más reconocido Patrimonio de la Humanidad.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/05-Tierra_de_Legado_2.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/05-Tierra_de_Legado_2.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>5</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64595</guid>
+                    <title>Dólmenes de Antequera</title>
+                    <media:title>Dólmenes de Antequera</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>Las suaves colinas, apenas visibles en el horizonte de la fértil vega de Antequera, ocultan en su interior la expresión más impresionante del megalitismo en la península ibérica. Se trata de los dólmenes de Menga y Viera, y el tholos del Romeral. Por su tamaño y por sus características construc¬tivas, los megalitos antequeranos suponen un excepcional legado de la Prehistoria europea. Los tres monumentos nos permiten conocer las prácticas funera¬rias y los rituales de una sociedad prehistórica muy organizada durante el Neolítico. Un recinto declarado Patrimonio de la Humanidad al que además se suman dos hitos geológicos de gran valor: la Peña de los Enamorados y el Torcal. Ambos van mucho más allá de un mero decorado para los monumentos prehistóricos, pues forman parte de su misma existencia y ofrecen la clave para explicar el sitio megalítico a través de las orientaciones de los dólmenes.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/04-Dolmenes_de_Antequera.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/04-Dolmenes_de_Antequera.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>4</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64594</guid>
+                    <title>Úbeda y Baeza</title>
+                    <media:title>Úbeda y Baeza</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>Muchas ciudades que son vecinas comparten pasado, pero bastantes menos son las que, de la mano, encaminan el futuro y consiguen juntas logros como ser declaradas Patrimonio de la Humanidad. Desde el 2003, año de la declaración, las visitas turísticas a la zona han aumentado notablemente, incluso doblándose en el caso de Baeza. Ambas ciudades han enriquecido su arquitectura a media que transcurría la historia antigua y el Medievo, y la cultura llegada de influencias castellanas y andaluzas se aprecia incluso en la forma de ser de su gente. Pero es el Renacimiento el estilo que destaca en ambas localidades con una fuerza sin parecido en toda Andalucía. En este capítulo pasearemos por las calles de ambas ciudades, por su historia, su legado patrimonial y visitaremos joyas como el Palacio de Jabalquinto o la Catedral de Baeza.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/03-Ubeda_y_Baeza.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/03-Ubeda_y_Baeza.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>3</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64593</guid>
+                    <title>Córdoba</title>
+                    <media:title>Córdoba</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>Córdoba fue durante siglos el robusto y único puente de unión entre las dos mitades de Andalucía. Esta grandiosa ciudad cuenta con cuatro elementos designados como Patrimonio de la Humanidad, tres de los cuales se disfrutan en su extenso casco antiguo: el centro histórico, la Mezquita y la fiesta de los patios. Forman un todo armonioso, algo que se alcanza sólo tras siglos de culturas. En el capítulo de hoy nos perderemos por las calles del centro histórico de Córdoba, entraremos en la majestuosa Mezquita, símbolo del legado de diferentes culturas, nos dejaremos sorprender por sus viviendas tradicionales y la fiesta que cada mayo llena de vida sus patios y acabaremos el recorrido en la fastuosa Medina Azahara.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/02-Cordoba.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/02-Cordoba.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>2</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>2</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64592</guid>
+                    <title>Tierra de Legado I</title>
+                    <media:title>Tierra de Legado I</media:title>
+                    <media:category>Andalucia Patrimonio de la Humanidad</media:category>
+                    <media:description>En “Tierra de Legado. Parte I” visitaremos cuatro de estos hitos: el conjunto arqueológico de los Dólmenes de Antequera, que nos provoca el silencio primitivo del origen de los tiempos; la capital del califato, Medina Azahara, y la ciudad de Córdoba con su majestuosa Mezquita, su centro histórico y su fiesta de los patios de mayo; el triángulo mágico de la plaza del Triunfo de Sevilla, formado por el Alcázar, la Catedral y el Archivo de Indias, un conjunto monumental que resume medio milenio en primera línea de historia; y por último, pasearemos por el delicioso renacimiento de las ciudades hermanas de Úbeda y Baeza, cuyas calles y edificios son una obra de arte en sí mismos.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/01-Tierra_de_Legado_1.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/01-Tierra_de_Legado_1.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords/>
+                    <series>
+                        <seriesId>647</seriesId>
+                        <seriesSeasonNumber>1</seriesSeasonNumber>
+                        <seriesEpisodeNumber>1</seriesEpisodeNumber>
+                    </series>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64591</guid>
+                    <title>Bernardo de Gálvez, Un Legado Vivo</title>
+                    <media:title>Bernardo de Gálvez, Un Legado Vivo</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Este documental trata de poner en valor la figura histórica de Bernardo de Gálvez y Madrid, vecino de Macharaviaya (Málaga). Galvez fue gobernador de Luisiana en EEUU y una de las figuras clave para la independencia americana. Recientemente, un retrato suyo ha viajado a Washington, para ser colgado en el congreso de Estados Unidos junto a los personajes más importantes de la historia norteamericana. La crisis económica ha obligado a un fortalecimiento de las relaciones entre Estados Unidos y la Unión Europea que se está traduciendo en el acuerdo comercial y de inversión más importante jamás celebrado. España, ante el importante desarrollo latino en Norteamérica, se encuentra en una situación privilegiada para participar de este importante proceso y ser nuevamente un eje clave en las relaciones entre ambos continentes como ya ocurrió a lo largo de la historia.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Bernardo_de_Galvez.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Bernardo_de_Galvez.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>historia,bernardo de galvez,independencia,estados unidos,españa,macharaviaya</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64590</guid>
+                    <title>El Futuro es Azul</title>
+                    <media:title>El Futuro es Azul</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>El futuro es azul, es un documental que versa sobre lo que representa la economía azul para Andalucía, ya que es la comunidad autónoma que posee la mayor longitud costera y la única con costa atlántica y mediterránea. El comercio, la innovación, la investigación y las nuevas tecnologías en torno al gigante azul abren "un mar" de oportunidades para la economía, el I+D y la sostenibilidad. Muchos son los sectores que se benefician de ello: turismo, industria, gastronomía, ocio, medio ambiente...</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/El_Futuro_es_Azul.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/El_Futuro_es_Azul.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>mar,oceano,medio ambiente,pesca,economia,sociedad</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64589</guid>
+                    <title>Por Buen Camino. Deporte Base</title>
+                    <media:title>Por Buen Camino. Deporte Base</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Hoy en día el Deporte Base se entiende como la introducción a un estilo de vida saludable. Poco a poco la sociedad ha ido evolucionando y al mismo tiempo asimilando la importancia de una actividad como la deportiva, así como las grandes ventajas de la misma. Este documental cruza las historias de instituciones, adolescentes y familias que han hecho del deporte una forma de vida con la que están plenamente satisfechos y que siempre recomiendan.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Por_Buen_Camino.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Por_Buen_Camino.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>deporte base,educacion,deporte,actividad fisica,familia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64588</guid>
+                    <title>Energías Renovables</title>
+                    <media:title>Energías Renovables</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Documental sobre las ventajas y el futuro de las energías renovables. Los distintos tipos y usos que se dan en Andalucía, una comunidad autónoma pionera en todo el mundo, por su labor en investigación y superficie destinada a estás nuevas formas limpias de obtención de energía.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Energias_Renovables.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Energias_Renovables.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>energia limpia,medio ambiente,economia,andalucia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64587</guid>
+                    <title>Buscando a Jorge, Looking for George</title>
+                    <media:title>Buscando a Jorge, Looking for George</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Documental sobre George Campbell, uno de los mayores artistas irlandeses del siglo XX, que dejó su legado humano y artístico en lo que fueron sus dos patrias: Irlanda y Andalucía. George Campbell nació en Arklow, condado de Wicklow, Irlanda, en 1917, y fue uno de los más destacados pintores irlandeses de todos los tiempos. Miembro de la Real Academia de las Artes de Irlanda, Campbell fue un artista autodidacta, que no empezó a pintar hasta 1944, realizando su primera exposición sólo tres años más tarde. En 1951, visita España por primera vez. Esta fecha marcó su vida para siempre. Pues, a partir de este momento, vivió más de 6 meses al año en Málaga, convirtiendo a ésta en su segundo hogar y patria. Jorge, como se le conocía en esta tierra, dejó también su marca indeleble en sus amigos españoles y en el Arte, de los años 60 y 70, de la capital malagueña. George Campbell solo dejó de volver a España al morir, en 1979. Un año antes, el gobierno español le había concedido la Encomienda al Mérito Civil, en reconocimiento a su carrera y su labor de promoción de España en Irlanda.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Buscando_a_Jorge_Looking_For_George.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Buscando_a_Jorge_Looking_For_George.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>arte,pintura,george campbell,irlanda,andalucia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64586</guid>
+                    <title>Patrimonio Troglodítico</title>
+                    <media:title>Patrimonio Troglodítico</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>El documental, está basado en el Proyecto de Acción Conjunta de Cooperación para la salvaguarda y puesta en valor del Patrimonio Troglodítico realizado por Grupos de Desarrollo de toda Europa y encabezado por el Grupo de Desarrollo Rural de la Comarca de Guadix. El Trogloditismo está representado en prácticamente todo el mundo, allí donde el clima, las condiciones geológicas y una conjugación de factores históricos, económicos y socioculturales lo han hecho posible. Si bien existen varios monumentos o complejos monumentales troglodíticos inscritos como bienes culturales en los diversos catálogos de protección regionales o nacionales, y en especial en la Lista del Patrimonio Mundial de la UNESCO (Lalibela en Etiopia, Petra en Jordania, Goreme en Turquía...), la mayor parte de los conjuntos, y sobre todo los elementos aislados, carecen del reconocimiento como patrimonio cultural necesario para su salvaguarda.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Patrimonio_Trogloditico.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Patrimonio_Trogloditico.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>prehistoria,historia,trogloditismo,casa cueva</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64585</guid>
+                    <title>Etnosur Encuentro de Culturas</title>
+                    <media:title>Etnosur Encuentro de Culturas</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Documental sobre el festival Etnosur que se celebra desde 1.997, el tercer fin de semana de Julio en Alcalá la Real (Jaén), Andalucía. Durante tres intensos días miles de personas de todas las edades participan en multitud de actividades para conocer más y mejor diferentes manifestaciones artísticas de todos los rincones del planeta. Es como dar un paseo por el mundo sin necesidad de abandonar un territorio. Son tiempos difíciles para la cultura y la diversidad, la ya célebre ‘aldea global’ ha venido y plantea el ya viejo dilema: o dentro o fuera. En Etnosur pensamos que dentro cabemos todos, que otro mundo no es solo posible sino necesario.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Etnosur_Un_Encuentro_de_Culturas.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Etnosur_Un_Encuentro_de_Culturas.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>festival,MUSICA,arte,culturas,etnica</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64584</guid>
+                    <title>Una Lección de Democracia</title>
+                    <media:title>Una Lección de Democracia</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Documental que estudia la trayectoria de nuestra democracia desde su nacimiento hoy, con unas características muy peculiares: su localización, personajes y protagonistas. El documental se desarrolla íntegramente en Alcalá La Real (Jaén) y sus protagonistas, alcalaínos ligados férreamente a la palabra democracia desde los más diversos puntos de vista: política, urbanismo, patrimonio, arquitectura, información y un largo etcétera.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Una_Leccion_de_Democracia.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Una_Leccion_de_Democracia.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>historia,democracia,ayuntamientos,pueblos,politica,sociedad</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64583</guid>
+                    <title>El Sueño de Olavide</title>
+                    <media:title>El Sueño de Olavide</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Bajo el reinado de Carlos III, se puso en marcha uno de los proyectos más revolu­cionarios de la historia moderna española: crear una serie de nuevas poblaciones junto al Camino Real que unía Cádiz con Madrid, una zona espe­cialmente despoblada. Para ello, trajeron a casi 8000 colonos extranje­ros a los que se les otorgaba una dotación real que incluía casa, tierra y animales. Hoy quedan en Andalucía casi 50 poblaciones o colonias que sorprenden por su ordenado traza­do, por los apellidos e incluso por los rasgos fisio­nómicos de sus habitantes. Hoy 250 años después de la llegada de sus antepasados tratan de revin­dicar sus orígenes.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Olavide.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Olavide.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>historia,olavide,ilustracion,nuevas poblaciones,sociedad</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64582</guid>
+                    <title>Entre Olivos</title>
+                    <media:title>Entre Olivos</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Un campo de olivar es talado, ejemplares de más de 500 y 1000 años desaparecen, en un instante ante nuestra mirada, convertidos en leña. Unos pocos, los más viejos, los de mejor porte se libran del trágico final ; una enorme excavadora los arranca de raíz , los monta en un gran trailer emprendiendo un viaje a un lugar lejano donde nunca hubo olivos . Varias historias paralelas se suceden en este viaje.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Entre_Olivos.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Entre_Olivos.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>olivos,olivos milenarios,olivar,historia,social</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64581</guid>
+                    <title>Al Ándalus en el Espejo</title>
+                    <media:title>Al Ándalus en el Espejo</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Andalucía era una parte importante del mítico Al-Andalus. Ocho siglos de presencia árabe han dejado una herencia enorme y viva entre nosotros. No sólo las pistas más visibles y monumentales de la Alhambra de Granada, la Mezquita de Córdoba o la Giralda de Sevilla. En nuestros pueblos y ciudades, la cultura árabe sobrevive de un modo dinámico. Pero aparte de aquella vista idílica del pasado, la llegada creciente de inmigrantes árabes trae a la sociedad española un debate público: ¿Nos gustan los árabes?¿Qué percepción tienen los españoles sobre Al-Andalus? ¿Tienen una imagen estereotipada de los musulmanes que viven en España? ¿Cuáles son sus opiniones sobre temas como religión, mujeres o terrorismo?</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Al-Andalus_en_el_Espejo.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Al-Andalus_en_el_Espejo.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>mulsuman,andalucia,cultura,historia,patrimonio,sociedad</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64580</guid>
+                    <title>Las Catedrales del Vino</title>
+                    <media:title>Las Catedrales del Vino</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Desde el nacimiento de los primeros brotes en la primavera, hasta la vendimia en otoño y la poda en invierno, el documental "Las Catetrales del Vino" retrata los paisajes, arquitecturas e historias humanas que se dan cita en torno a las bodegas, en dos regiones que representan tipos de vino y culturas bien diferentes: Rioja y Jerez. Por medio de una compleja liturgia regida por las fuerzas de la naturaleza y la sabiduría del hombre, protegida por las normas de cada Denominación de Origen, se produce el milagro de la transformación de la uva cosechada, en vino con su propia y peculiar personalidad, que se consumirá asociado a diferentes ritos y costumbres sociales.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Las_Catedrales_del_Vino.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Las_Catedrales_del_Vino.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>vino,jerez,rioja,españa,vitivinicola,cultura,economia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64579</guid>
+                    <title>Galgos y Galgueros</title>
+                    <media:title>Galgos y Galgueros</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>El deporte de la caza con galgos en campo abierto es una pasión, una afición transmitida de padres a hijos, que ha llegado hasta nuestros días como uno de los deportes más bellos y, sin embargo, más desconocidos que existen en nuestro país, a pesar de que España es uno de los pocos lugares donde todavía se practica en toda su pureza.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Galgos_y_Galgueros.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Galgos_y_Galgueros.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>galgos,perros,deporte,sociedad</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64578</guid>
+                    <title>Guatemala Andalucía. Intercambio de Experiencias</title>
+                    <media:title>Guatemala Andalucía. Intercambio de Experiencias</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Documental en el que se muestra el intercambio de experiencias entre productores guatemaltecos de la región de Huehuetenango y otros andaluces. Rodado en Guatemala y en Andalucía en el marco del programa de la Unión Europea de desarrollo rural y local en Guatemala PDRL/SERV/19/09</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Guatemala_Productores.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Guatemala_Productores.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>guatemala,andalucia,politica,sociedad,produccion</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64577</guid>
+                    <title>Pasaje a Hawai 1907-1913</title>
+                    <media:title>Pasaje a Hawai 1907-1913</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>En el año 1907 salió del puerto de Málaga el SS Heliópolis, el primer barco de emigrantes con destino a Hawai. Posteriormente partirían otros cinco barcos más con cerca de 8.000 personas más, casi todas andaluzas. Un sueldo, una casa y la futura nacionalidad americana, fue la promesa a cambio de trabajar en la caña de azúcar. Han pasado más de 100 años y esos primeros Spaniards son hoy miles, quizás millones. Por ello, las nuevas generaciones, se están reencontrando con sus viejas familias y con los lugares que dejaron atrás aquellos primeros pioneros, para tratar de reconstruir su historia.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Pasaje_a_Hawai.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Pasaje_a_Hawai.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>emigracion,migracion,andalucia,estados unidos,historia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64576</guid>
+                    <title>Guadaira. La Recuperación de un Sentimiento</title>
+                    <media:title>Guadaira. La Recuperación de un Sentimiento</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Desde su nacimiento en Pozo Amargo hasta su desembocadura en el Guadalquivir, el río Guadaíra ha sido testigo mudo del paso del tiempo. Ahora, el rumor del agua se ha convertido en un narrador que relata el curso la historia, los avatares de la industrialización y la recuperación de la cuenca como un espacio de gran valor paisajístico y, también, antropológico. A lo largo de su cauce fluyen las historias personales de los habitantes de un municipio cuyas vidas acaban confluyendo en las aguas del Guadaíra. Un molinero, un panadero, un pescador, un cronista... Vidas cotidianas que han dotado al río de un valor propio y que han logrado hacer posible la recuperación de un sentimiento.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Guadaira_La_Recuperacion_de_un_Sentimiento.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Guadaira_La_Recuperacion_de_un_Sentimiento.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>sociedad,naturaleza,rio guadaira</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64575</guid>
+                    <title>Tras la Huella de Anibal</title>
+                    <media:title>Tras la Huella de Anibal</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>A través de testimonios de expertos en la historia y de historias de personas que después de 2.000 años viven en los mismos lugares en los que tuvieron lugar acontecimientos relacionados con la segunda guerra púnica, y a través de actividades y celebraciones realizadas en los mismos y que mantienen viva la memoria y el legado del general cartaginés. Nos detendremos en los enclaves jiennenses de la Batalla de Baécula, paraje del Cerro de las Albahacas, en Santo Tomé en la que lucharon los ejércitos cartaginés y romano, liderados los primeros por el hermano de Aníbal, Asdrúbal, en el año 208 a. C. y en el yacimiento arqueológico de Cástulo ligado al general cartaginés ya que la princesa de Cástulo, Himilce, se convirtió en su esposa sellando así una alianza entre Cartago y la ciudad íbera. Los innovadores métodos utilizados en la investigación y los recientes hallazgos arqueológicos serán buenos argumentos sobre las que giraran algunas de las tramas de esta película.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Tras_la_huella_de_Anibal.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Tras_la_huella_de_Anibal.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>historia,turismo,cartagineses,imperio romano</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64574</guid>
+                    <title>Historias del Baloncesto en Málaga</title>
+                    <media:title>Historias del Baloncesto en Málaga</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Con las historias y testimonios de los personajes que vivieron la primera etapa de desarrollo del baloncesto en Málaga, se hace un recorrido por este deporte desde los inicios hasta lo que es hoy, una disciplina seguida por un gran número de personas y que tiene a Málaga como una de sus referencias en Europa.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Historias_de_Baloncesto_en_Malaga.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Historias_de_Baloncesto_en_Malaga.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>baloncesto,deporte,historia,malaga</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64573</guid>
+                    <title>Volver a Ser</title>
+                    <media:title>Volver a Ser</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Las estadísticas suelen ser impersonales pero, en este caso, producen escalofríos: 700.000 mujeres son víctimas de malos tratos en España. Con motivo del Día Internacional para la Eliminación de la Violencia de Género, analizamos un drama social que incumbe a todos y que no entiende de edad, estatus socioeconómico o nacionalidad. Un paso a la vida es la historia de tres mujeres víctimas de violencia machista que un día vencieron el miedo, la vergüenza y la culpa, y se atrevieron a denunciar. Con la colaboración de psicólogos, trabajadoras sociales, maestros, e, incluso, alumnos de la Universidad de Málaga participantes en la Campaña “Los Buenos Tratos”, nos acercamos a esta cruda realidad.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Volver_a_Ser.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Volver_a_Ser.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>violecia de genero,violencia machista,sociedad</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64572</guid>
+                    <title>Las Bellas de Cádiz</title>
+                    <media:title>Las Bellas de Cádiz</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Comedia documental con las actrices Chirigóticas y Chirigotas del Carnaval de Cádiz, donde cada año, se componen y cantan centenares de piezas satíricas sobre los grandes temas de la actualidad... "Sólo las palabras que andan, pasando de boca en boca, leyendas y cantos en la raiz del país, mantienen viva a la gente".</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Las_Bellas_de_Cadiz.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Las_Bellas_de_Cadiz.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>comedia,turismo,carnaval de cadiz,chirigota</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64571</guid>
+                    <title>De Úbeda a Baeza. Patrimonio de la Humanidad, Patrimonio Humano</title>
+                    <media:title>De Úbeda a Baeza. Patrimonio de la Humanidad, Patrimonio Humano</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Documental sobre las ciudades Úbeda y Baeza de Jaén (Andalucía). El camino de Úbeda y Baeza hasta llegar a su reconocimiento como Ciudades Patrimonio de la Humanidad fue largo y tedioso. La justificación de su declaración por parte de UNESCO fue una propuesta que muestra la complementariedad de las dos ciudades, con una visión de conjunto de los dos centros urbanos, distantes apenas nueve kilómetros, como una unidad funcional que se ha desarrollado en el tiempo de forma paralela y a la vez convergente. La necesidad de visitarlas se convierte en una obligación, y ésta a su vez en devoción. No hacen falta palabras para explicar las razones que las han llevado a ser declaradas Ciudades Patrimonio de la Humanidad. Un simple paseo a cualquier hora o en cualquier época del año nos hace sentir que la historia y el arte, se encuentra en cada una de las piedras que dan forma a sus magníficos edificios, rincones o plazoletas.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/De_Ubeda_a_Baeza.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/De_Ubeda_a_Baeza.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>historia,turismo,patrimonio de la humanidad,andalucia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64570</guid>
+                    <title>Andalucía, La Huerta Europea</title>
+                    <media:title>Andalucía, La Huerta Europea</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Documental sobre el sector hortofrutícola en Andalucía. La frutas y hortalizas andaluzas representan uno de los sectores que más ha crecido en los últimos tiempos. No en vano está considerada como la huerta de Europa. Fruto de su clima privilegiado y de una constante investigación e innovación, los productos andaluces son un referente en los mercados europeos. A través de sus protagonistas, cooperativas, agricultores, investigadores, científicos… Nos acercamos a esta realidad tan propia de nuestra comunidad.que más ha crecido en los últimos tiempos. Fruto de su clima privilegiado y de una constante investigación e innovación, los productos andaluces son un referente en los mercados europeos.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia_La_Huerta_Europea.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Andalucia_La_Huerta_Europea.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>agricultura,vegetales,sector agricola,frutas,andalucia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64569</guid>
+                    <title>Tierra de Vinos</title>
+                    <media:title>Tierra de Vinos</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Documental completo sobre los vinos y el sector vitivinícola en Andalucía. Una tradición milenaria en el cultivo de la vid y la elaboración de vinos, que se remonta a las primeras civilizaciones asentadas en esta tierra. Un clima típicamente mediterráneo, con precipitaciones irregulares, inviernos suaves y veranos muy calurosos y secos, ha sido idóneo para la producción de vinos con características singulares y de excelente calidad, que forman parte inseparable de la identidad y cultura andaluzas y han alcanzado una gran notoriedad a nivel mundial desde hace muchos siglos. Conoceremos las variedades y denominaciones de origen, así como el estado y futuro de un sector tan importante para nuestra comunidad.muy preocupante. Los precios, con unas oscilaciones muy bruscas, han contribuido a una reducción de los márgenes de la explotación, que dificultan la supervivencia de algunas. Aprovechando la presente campaña, haremos un recorrido por el presente y el futuro de un sector de tanta trascendencia para nuestra sociedad, de la mano de jornaleros, propietarios de explotaciones, fabricantes, distribuidores, envasadores, cocineros, dietistas, juristas, etc. Analizaremos el estado de las infraestructuras existentes, las circunstancias que influyen en el precio del aceite, aplicaciones diferentes al consumo y qué se puede esperar para este sector en un futuro.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Tierra_de_Vinos.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Tierra_de_Vinos.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>vino,vinos de andalucia,andalucia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64568</guid>
+                    <title>Tierra de Olivos</title>
+                    <media:title>Tierra de Olivos</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Coincidiendo con la crisis actual, el sector del aceite de oliva está atravesando una etapa de incertidumbre muy preocupante. Los precios, con unas oscilaciones muy bruscas, han contribuido a una reducción de los márgenes de la explotación, que dificultan la supervivencia de algunas. Aprovechando la presente campaña, haremos un recorrido por el presente y el futuro de un sector de tanta trascendencia para nuestra sociedad, de la mano de jornaleros, propietarios de explotaciones, fabricantes, distribuidores, envasadores, cocineros, dietistas, juristas, etc. Analizaremos el estado de las infraestructuras existentes, las circunstancias que influyen en el precio del aceite, aplicaciones diferentes al consumo y qué se puede esperar para este sector en un futuro.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Tierra_de_Olivos.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Tierra_de_Olivos.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>aceite de oliva,olivo,oliva,andalucia</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64567</guid>
+                    <title>Oficio de pintor, oficio de vivir</title>
+                    <media:title>Oficio de pintor, oficio de vivir</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Este documental presenta lo sorprendente del proceso de inspiración, gestación y culminación de dos cuadros por dos pintores con dos estilos diferentes pero unidos por la soledad del trabajo y la lealtad a la obra. Un repaso a la vida y a la obra de los pintores JOSÉ HERNÁNDEZ y ROBERT HARVEY, dos artistas que desempeñan su actividad en dos pequeños pueblos de la provincia de Málaga (Villanueva del Rosario y Macharaviaya). Visión particular de su obra relatada en primera persona por los propios protagonistas.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/Oficio_de_Pintor_Oficio_de_vivir.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/Oficio_de_Pintor_Oficio_de_Vivir.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>arte,pintura,pintores</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+                <item>
+                    <allowMix>1</allowMix>
+                    <videoType>1</videoType>
+                    <playoutType>3</playoutType>
+                    <availableStart/>
+                    <availableEnd/>
+                    <language>es</language>
+                    <year>3000<year/>
+                    <country>ES</country>
+                    <guid isPermaLink="false">64566</guid>
+                    <title>El Sueño de Ícaro</title>
+                    <media:title>El Sueño de Ícaro</media:title>
+                    <media:category>Documental</media:category>
+                    <media:description>Andalucía es junto con Tolousse y Hamburgo uno de los principales regiones del sector aeronáutico en Europa. En la Córdoba Califal, ya se intentaron los primeros vuelos. Hoy en día AIRBUS y el nuevo A400M actúan en esta tierra como verdadera cabeza tractora de un sector muy activo y que en cifras resulta ser el que más exporta de Andalucía. De la mano de los profesionales de la industria aeronáutica, historiadores, investigadores y artistas, este documental hace un recorrido sobre lo que fue, es y supone para esta tierra, su sector aeronáutico.</media:description>
+                    <media:content url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.mp4" medium="video"/>
+                    <media:thumbnail url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.jpg"/>
+                    <media:restriction relationship="allow" type="country"/>
+                    <media:rating>MPAA R</media:rating>
+                    <media:runtime/>
+                    <media:subtitles/>
+                    <keywords>aeronautica,aviacion,economia,sociedad</keywords>
+                    <series/>
+                    <pubDate/>
+                    <adBreaks>
+                        <adBreak/>
+                    </adBreaks>
+                </item>
+            </items>
+        </channel>
+    </channels>
 </rss>
