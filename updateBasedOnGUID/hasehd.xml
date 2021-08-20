@@ -1,92 +1,308 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/">
-    <partnerId>Alchimie</partnerId>
-    <channels>
-        <channel>
-            <title>Classical Harmony</title>
-            <defineSeries/>
-            <items>
-                <item>
-                    <allowMix>0</allowMix>
-                    <videoType>4</videoType>
-                    <playoutType>3</playoutType>
-                    <availableStart>2017-04-26 20:15:42</availableStart>
-                    <availableEnd/>
-                    <language>en</language>
-                    <year/>
-                    <country/>
-                    <guid isPermaLink="false">31344</guid>
-                    <title>J. Atkinson Grimshaw : Various</title>
-                    <media:title>J. Atkinson Grimshaw : Various - path does not change -> old guid</media:title>
-                    <media:category>Landscape</media:category>
-                    <media:description>1) In Autumn's Gloden Glow 2) Roundhay Lake C. Merchan. Lounge Lizard</media:description>
-                    <media:content url="http://video1.rlaxxtv.com/cedecom/El_Sueno_de_Icaro.mp4" medium="video"/>
-                    <media:thumbnail url="https://static-alc-proxy-cover.akamaized.net/630965/776x436/0/0.jpg"/>
-                    <media:restriction relationship="allow" type="country"/>
-                    <media:rating>nonadult</media:rating>
-                    <media:runtime/>
-                    <media:subtitles/>
-                    <keywords/>
-                    <series/>
-                    <pubDate/>
-                    <adBreaks>
-                        <adBreak/>
-                    </adBreaks>
-                </item>
-                <item>
-                    <allowMix>0</allowMix>
-                    <videoType>4</videoType>
-                    <playoutType>3</playoutType>
-                    <availableStart>2017-09-26 08:16:04</availableStart>
-                    <availableEnd/>
-                    <language>en</language>
-                    <year/>
-                    <country/>
-                    <guid isPermaLink="false">313451</guid>
-                    <title>Raphael : Madonna in the Meadow</title>
-                    <media:title>Raphael : Madonna in the Meadow - path new -> new guid</media:title>
-                    <media:category>Religious</media:category>
-                    <media:description>Franz Schubert. Ave Maria</media:description>
-                    <media:content url="http://video1.rlaxxtv.com/cedecom/Andalucia-Patrimonio-Humanidad/03-Ubeda_y_Baeza.mp4" medium="video"/>
-                    <media:thumbnail url="https://static-alc-proxy-cover.akamaized.net/641091/776x436/0/0.jpg"/>
-                    <media:restriction relationship="allow" type="country"/>
-                    <media:rating>nonadult</media:rating>
-                    <media:runtime/>
-                    <media:subtitles/>
-                    <keywords/>
-                    <series/>
-                    <pubDate/>
-                    <adBreaks>
-                        <adBreak/>
-                    </adBreaks>
-                </item>
-                 <item>
-                    <allowMix>0</allowMix>
-                    <videoType>4</videoType>
-                    <playoutType>3</playoutType>
-                    <availableStart>2017-09-26 08:16:04</availableStart>
-                    <availableEnd/>
-                    <language>en</language>
-                    <year/>
-                    <country/>
-                    <guid isPermaLink="false">313452</guid>
-                    <title>Raphael : Laura</title>
-                    <media:title>Raphael : Laura</media:title>
-                    <media:category>Religious</media:category>
-                    <media:description>Franz Schubert. Ave Maria</media:description>
-                    <media:content url="http://techslides.com/demos/sample-videos/small.mp4" medium="video"/>
-                    <media:thumbnail url="https://static-alc-proxy-cover.akamaized.net/641091/776x436/0/0.jpg"/>
-                    <media:restriction relationship="allow" type="country"/>
-                    <media:rating>nonadult</media:rating>
-                    <media:runtime/>
-                    <media:subtitles/>
-                    <keywords/>
-                    <series/>
-                    <pubDate/>
-                    <adBreaks>
-                        <adBreak/>
-                    </adBreaks>
-                </item>
-            </items>
-        </channel>
-    </channels>
+<partnerId>batteryPOP</partnerId>
+<channels>
+<channel>
+<title>batteryPOP</title>
+<defineSeries/>
+<items>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47348983</guid>
+<title>Different Beauty</title>
+<media:title>Laura</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Loose Ears found a crayon, start drawing on Toffee and Jumpy faces, when they woke up and saw their faces, they taught Loose Ears a good lesson and draw on Loose Ears face. The fox grabbed Jumpy and Toffee from the cave and when the fox saw their faces, the fox scared and ran.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6603/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/jpg/6603/screen-002.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:03:26</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47275</guid>
+<title>The Hidden Power</title>
+<media:title>The Hidden Power</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Rabbits kept digging deep in the ground and found a carrot, but snatched by a powerful turtle, and Jumpy got drag deep into the cave, but accidentally found a super-power aged rabbit living in the cave. Jumpy has inherited the super power and wants to challenge the powerful turtle, but got kicked out by Toffee and Loose ears.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6599/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/6599/3_rabbits_ep16.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:03:26</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47337</guid>
+<title>A Free Ride</title>
+<media:title>A Free Ride</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>A carrot is being frozen in an ice, Toffee and Jumpy took a long time and melted the ice, Loose Ears had a free ride by stolen the carrot.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6602/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/jpg/6602/screen-004.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,Christmas,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:03:26</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47301</guid>
+<title>The Bouncing Pants</title>
+<media:title>The Bouncing Pants</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Bright spring days, animals from the caves are enjoying the sun, but jumpy farted ruined the joy. Loose Ears gave Jumpy a pair of pants can contain gas, but the pants got punctured by a bee and all got fainted.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6600/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/jpg/6600/screen-002.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:03:26</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47248</guid>
+<title>A Pisces Pendant</title>
+<media:title>A Pisces Pendant</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Rabbits found a Pisces pendant, it reproduced many carrots, just as when the rabbits were excited, the Pisces pendant also produced many rabbits.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6597/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/jpg/6597/screen-001.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:03:26</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47367</guid>
+<title>Match's a Heaven</title>
+<media:title>Match's a Heaven</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Gold wind blows, rabbits got a box of matches to make fire to keep warm and feeling in safe heaven, but fires doesn't last long, some blowout by the wind, and some matches was burned out before fire made, at last, only one match left. To keep the fire going, they decided to take off their clothes and throw them into the fire. When the fire went out, the rabbits are frozen and turned into ice statures.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6604/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/jpg/6604/screen-004.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:15:13</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47388</guid>
+<title>The Beggar King</title>
+<media:title>The Beggar King</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Came a young rabbit in ragged clothes, poor in poverty, the three rabbits suddenly feel they are in superiority, and start picking on the young rabbit. Suddenly a limousine driven by a fox came to pick up the young rabbit, turn out the young rabbit is the prince from a neighboring kingdom.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6605/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/jpg/6605/screen-001.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:15:13</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47397</guid>
+<title>I Didn't Mean It</title>
+<media:title>I Didn't Mean It</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Flash flood causing the cave filled with water. Rabbits are fighting for the flood, a big fish came again to catch the rabbits, Toffee didn't want his friends taking away so he bravely try to stop the fish, but accidentally kicked his friends into the big fish's mouth.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6606/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/jpg/6606/screen-001.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:15:13</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47422</guid>
+<title>Rabbit Robot-2</title>
+<media:title>Rabbit Robot-2</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Jumpy work hard to win the rabbits friendship, but was not appreciated,. Fox had an idea used water short circuited the rabbit robot, Jumpy is trying to help out, and the three rabbits became friends again.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6608/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/jpg/6608/screen-002.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:15:14</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47433</guid>
+<title>The Bee</title>
+<media:title>The Bee</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>Rabbits ignored the bee's plea and ate all the honey, the angry bee decided to seek revenge and attack the rabbits, but the sting broke off, and when the rabbits though they are safe, the bee open the beehive and all the bees start attacking them.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6609/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/6609/3_rabbits_ep26.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:15:14</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+<item>
+<allowMix>1</allowMix>
+<videoType>4</videoType>
+<playoutType>3</playoutType>
+<availableStart/>
+<availableEnd/>
+<language>en</language>
+<year>2020</year>
+<country/>
+<guid isPermaLink="false">47413</guid>
+<title>Rabbit Robot-1</title>
+<media:title>Rabbit Robot-1</media:title>
+<media:category>3 Rabbits</media:category>
+<media:description>A rabbit robot came to the cave to help block the wind and rain, found the carrot and kick out the fox, Toffee and Loose Ears are happy but Jumpy looks sad.</media:description>
+<media:content url="https://v.batterypop.com/mp4/6607/1080p.mp4?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0" medium="video"/>
+<media:thumbnail url="https://icdn.batterypop.net/sized/jpg/854x480/6607/3_rabbits_ep24.jpg?distribution_id=cbc77b62-f425-15af-74c7-540e00538de0"/>
+<media:restriction relationship="allow" type="country"/>
+<media:rating/>
+<media:runtime/>
+<media:subtitles/>
+<keywords>3 Rabbits,syndicated,animated,comedy,animation,cartoons</keywords>
+<series/>
+<pubDate>2020-02-06 17:15:14</pubDate>
+<adBreaks>
+<adBreak/>
+</adBreaks>
+</item>
+</items>
+</channel>
+</channels>
 </rss>
