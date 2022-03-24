@@ -19,7 +19,7 @@
                <media:title>Creates Content with Year and Language</media:title>
                <media:category>Action</media:category>
                <media:description>Revry/Revry Movies/Action is existing folder</media:description>
-               <media:content url="http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/6122285389001/b47a4544-de5e-4d50-9841-eb8ae51bf58c/e0d93f2c-5a01-4c58-98ca-a3f4d61887b6/main.mp4?akamai_token=exp=1657888458~acl=/media/v1/pmp4/static/clear/6122285389001/b47a4544-de5e-4d50-9841-eb8ae51bf58c/e0d93f2c-5a01-4c58-98ca-a3f4d61887b6/main.mp4*~hmac=0e325e9f350885c43c5b94e25c067a229df0ada5949f362d9185c7348e278995" medium="video"/>
+               <media:content url="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/86d584a7.mp4" medium="video"/>
                <media:thumbnail url="https://beacon.brightcove.com/revry/uploads/movies/2110_8d005fcef3a38e6b91a80ecbc466aa4d.jpg"/>
                <media:restriction relationship="allow" type="country"/>
                <media:rating>tv-14</media:rating>
