@@ -1,60 +1,33 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/">
-   <partnerId>Revry</partnerId>
+   <partnerId>Spiegel</partnerId>
    <channels>
       <channel>
-         <title>Revry Movies</title>
+         <title>Spiegel TV</title>
          <defineSeries/>
          <items>
             <item>
                <allowMix>1</allowMix>
-               <videoType>1</videoType>
-               <playoutType>3</playoutType>
+               <videoType>3</videoType>
+               <playoutType>2</playoutType>
                <availableStart/>
                <availableEnd/>
-               <language>at</language>
-               <year>2030</year>
+               <language>hu</language>
+               <year>2034</year>
                <country/>
-               <guid isPermaLink="false">877777</guid>
-               <title>Creates Content with Year and Language</title>
-               <media:title>Updates Content with Year and Language</media:title>
-               <media:category>Action</media:category>
-               <media:description>Revry/Revry Movies/Action is existing folder</media:description>
-               <media:content url="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/86d584a7.mp4" medium="video"/>
-               <media:thumbnail url="https://beacon.brightcove.com/revry/uploads/movies/2110_8d005fcef3a38e6b91a80ecbc466aa4d.jpg"/>
+               <guid isPermaLink="false">897777</guid>
+               <title>Adam Test</title>
+               <media:title>Adam Test</media:title>
+               <media:category>Neu / Aktuell</media:category>
+               <media:description>Am 15. November 2021 ist die Sieben-Tage-Inzidenz auf über 300 gestiegen. Eine Woche zuvor lag sie noch bei gut 200. Man muss kein Mathematik-Genie sein, um zu begreifen, dass diese Corona-Welle schneller und größer ist, als ihre drei Vorgängerinnen. Man muss allerdings blind, taub und verbohrt sein, wenn man sich angesichts dessen immer noch nicht impfen lässt. Was ist bloß los mit diesem Land? Als wäre die Pandemie nicht schon schlimm genug - muss Deutschland jetzt auch noch Weltmeister der Impfgegner und Corona-Leugner werden? Spiegel-TV Reporter sind unterwegs auf angespannten Intensivstationen, wütenden Corona-Demos, in neuerdings vollen Impfzentren und überlasteten Pflegeheimen. Schöne Bescherung vor Weihnachten.</media:description>
+               <media:content url="https://vcdn02.spiegel.de/videos/AxtfxrQB-b8Tmknhy.mp4" medium="video"/>
+               <media:thumbnail url="https://vcdn02.spiegel.de/v2/media/AxtfxrQB/poster.jpg?width=720"/>
                <media:restriction relationship="allow" type="country"/>
-               <media:rating>tv-14</media:rating>
+               <media:rating/>
                <media:runtime/>
                <media:subtitles/>
-               <keywords>lifestyle,religion,Celeb,showbiz,activist,Educational,interview,trans woman,T,coming out,Coming Out Stories</keywords>
+               <keywords>Polizei,SPIEGEL TV,Sachsen,Politik,leipzig,bayern,Hamburg,virus,Altenheim,Nürnberg,Mannheim,Pfleger,Air Berlin,Seniorenheim,Thüringen,Intensivstation,source:SPIEGEL TV,corona,pandemie,Corona-Leugner,Saalfeld,Gesundheitsamt,Christian Stiehler,Katastrophenlage,Impfpasskontrolleure,Sven Laudi,Sylvia Köppen,Robin Müller,Vanessa Weitzel,Impfpflicht,Hajo Kawandt-Bender,Saalfeld-Rudolstadt,Landratsamt,2-G-Regel,Hartmut Feddersen,Altenpflegeheim,Norderstedt,Kimberly Streck</keywords>
                <series/>
-               <pubDate>2018-01-01 00:00:00</pubDate>
-               <adBreaks>
-                  <adBreak/>
-               </adBreaks>
-            </item>
-            <item>
-               <allowMix>1</allowMix>
-               <videoType>1</videoType>
-               <playoutType>3</playoutType>
-               <availableStart/>
-               <availableEnd/>
-               <language>at</language>
-               <year>2030</year>
-               <country/>
-               <guid isPermaLink="false">877778</guid>
-               <title>Updates Content with Year and Language</title>
-               <media:title>Creates Content with Year and Language</media:title>
-               <media:category>Action</media:category>
-               <media:description>Revry/Revry Movies/Action is existing folder</media:description>
-               <media:content url="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/86d584a7.mp4" medium="video"/>
-               <media:thumbnail url="https://beacon.brightcove.com/revry/uploads/movies/2110_8d005fcef3a38e6b91a80ecbc466aa4d.jpg"/>
-               <media:restriction relationship="allow" type="country"/>
-               <media:rating>tv-14</media:rating>
-               <media:runtime/>
-               <media:subtitles/>
-               <keywords>lifestyle,religion,Celeb,showbiz,activist,Educational,interview,trans woman,T,coming out,Coming Out Stories</keywords>
-               <series/>
-               <pubDate>2018-01-01 00:00:00</pubDate>
+               <pubDate>2021-11-15 23:30:00</pubDate>
                <adBreaks>
                   <adBreak/>
                </adBreaks>
