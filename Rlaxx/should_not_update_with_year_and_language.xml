@@ -19,8 +19,8 @@
                <media:title>Updates Content with Year and Language</media:title>
                <media:category>Action</media:category>
                <media:description>Revry/Revry Movies/Action is existing folder</media:description>
-               <media:content url="https://cdn.jwplayer.com/videos/Pf8o0xV4-mbfttcBV.mp4" medium="video"/>
-               <media:thumbnail url="https://cdn.jwplayer.com/v2/media/Pf8o0xV4/poster.jpg?width=720"/>
+               <media:content url="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/86d584a7.mp4" medium="video"/>
+               <media:thumbnail url="https://beacon.brightcove.com/revry/uploads/movies/2110_8d005fcef3a38e6b91a80ecbc466aa4d.jpg"/>
                <media:restriction relationship="allow" type="country"/>
                <media:rating>tv-14</media:rating>
                <media:runtime/>
