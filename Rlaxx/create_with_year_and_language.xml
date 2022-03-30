@@ -1,65 +1,65 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/">
-<partnerId>Only Good News</partnerId>
-<channels>
-<channel>
-<title>Only Good TV</title>
-<defineSeries/>
-<items>
-<item>
-<allowMix>1</allowMix>
-<videoType>4</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>en</language>
-<year>2016</year>
-<country/>
-<guid isPermaLink="false">7123455</guid>
-<title>Create new with year</title>
-<media:title>High School Senior Tips His Hat To The Less Fortunate In Peru</media:title>
-<media:category>KidsBiz</media:category>
-<media:description>People of Peru are getting new opportunities thanks to one awesome high school student. Ziggy Hallgarten a 17-year-old junior at Staples High School is Westport, CT takes his entrepreneur spirit and helps others in return. Ziggy loves to wear winter hats; in fact, he wears them year round. After ordering several different brands online, he realized nothing really fit his style. Ziggy travels to Peru often with his mother for business, and decided to see if he could hire locals in Peru to design his dream hats. After some design and thread tweaking, the hat making is in full swing. He pays the locals $10 dollars to make the hats, helping the impoverished community, and then also donates 10% of his profits to the non-profit group Community Plates. His love for hats and helping others is improving lives across the world!Story Produced By OnlyGood TV.</media:description>
-<media:content url="https://cdn.jwplayer.com/videos/Pf8o0xV4-mbfttcBV.mp4" medium="video"/>
-<media:thumbnail url="https://cdn.jwplayer.com/v2/media/Pf8o0xV4/poster.jpg?width=720"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>nonadult</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>Amazing Art & Artists,Inspiring Business,Inspiring Kids,Knitting,Entrepreneur,Donations,Hats,peru,Kidsbiz,Community Plates</keywords>
-<series/>
-<pubDate>2016-06-13 18:45:05</pubDate>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-<item>
-<allowMix>1</allowMix>
-<videoType>4</videoType>
-<playoutType>3</playoutType>
-<availableStart/>
-<availableEnd/>
-<language>en</language>
-<year>2016</year>
-<country/>
-<guid isPermaLink="false">7123456</guid>
-<title>Create 2nd new with year</title>
-<media:title>How These Teens Are Helping The Homeless & Saving The Environment</media:title>
-<media:category>KidsBiz</media:category>
-<media:description>Inspired by a similar art project she saw, Michigan’s Three Rivers High School art teacher, Ashley Eby, came up with an idea to help the local homeless. With the help of students and the National Honor Society at Three Rivers High School they came up with a plan to crocheting mats for the homeless out of recyclable plastic bags. With the help of her students, they are turning these plastic bags into much needed sleeping mats for the homeless in Michigan. Students are collecting the bags, creating the plarn (plastic yarn) and, with the help of parent and community volunteers, crocheting the mats. It takes 500-700 bags per mat, with a goal of making 880 mats! Although far from their goal, they are plugging away and just had their first distribution to area homeless. Not only are they making an impact, but also getting support from around the country!Story Produced By OnlyGood TV.</media:description>
-<media:content url="https://cdn.jwplayer.com/videos/bP9q4s9i-mbfttcBV.mp4" medium="video"/>
-<media:thumbnail url="https://cdn.jwplayer.com/v2/media/bP9q4s9i/poster.jpg?width=720"/>
-<media:restriction relationship="allow" type="country"/>
-<media:rating>nonadult</media:rating>
-<media:runtime/>
-<media:subtitles/>
-<keywords>environment,Michigan,homelessness,Kidsbiz,Sleeping Mats,plastic yarn,plastic bags,crochet</keywords>
-<series/>
-<pubDate>2016-06-28 20:54:29</pubDate>
-<adBreaks>
-<adBreak/>
-</adBreaks>
-</item>
-</items>
-</channel>
-</channels>
+   <partnerId>Revry</partnerId>
+   <channels>
+      <channel>
+         <title>Revry Movies</title>
+         <defineSeries/>
+         <items>
+            <item>
+               <allowMix>1</allowMix>
+               <videoType>1</videoType>
+               <playoutType>3</playoutType>
+               <availableStart/>
+               <availableEnd/>
+               <language>at</language>
+               <year>2030</year>
+               <country/>
+               <guid isPermaLink="false">777777</guid>
+               <title>Updates Content with Year and Language</title>
+               <media:title>Updates Content with Year and Language</media:title>
+               <media:category>Action</media:category>
+               <media:description>Revry/Revry Movies/Action is existing folder</media:description>
+               <media:content url="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/86d584a7.mp4" medium="video"/>
+               <media:thumbnail url="https://beacon.brightcove.com/revry/uploads/movies/2110_8d005fcef3a38e6b91a80ecbc466aa4d.jpg"/>
+               <media:restriction relationship="allow" type="country"/>
+               <media:rating>tv-14</media:rating>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords>lifestyle,religion,Celeb,showbiz,activist,Educational,interview,trans woman,T,coming out,Coming Out Stories</keywords>
+               <series/>
+               <pubDate>2018-01-01 00:00:00</pubDate>
+               <adBreaks>
+                  <adBreak/>
+               </adBreaks>
+            </item>
+            <item>
+               <allowMix>1</allowMix>
+               <videoType>1</videoType>
+               <playoutType>3</playoutType>
+               <availableStart/>
+               <availableEnd/>
+               <language>at</language>
+               <year>2030</year>
+               <country/>
+               <guid isPermaLink="false">777778</guid>
+               <title>Updates Content with Year and Language</title>
+               <media:title>Updates Content with Year and Language</media:title>
+               <media:category>Action</media:category>
+               <media:description>Revry/Revry Movies/Action is existing folder</media:description>
+               <media:content url="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/86d584a7.mp4" medium="video"/>
+               <media:thumbnail url="https://beacon.brightcove.com/revry/uploads/movies/2110_8d005fcef3a38e6b91a80ecbc466aa4d.jpg"/>
+               <media:restriction relationship="allow" type="country"/>
+               <media:rating>tv-14</media:rating>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords>lifestyle,religion,Celeb,showbiz,activist,Educational,interview,trans woman,T,coming out,Coming Out Stories</keywords>
+               <series/>
+               <pubDate>2018-01-01 00:00:00</pubDate>
+               <adBreaks>
+                  <adBreak/>
+               </adBreaks>
+            </item>
+         </items>
+      </channel>
+   </channels>
 </rss>
