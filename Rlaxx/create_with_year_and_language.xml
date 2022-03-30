@@ -15,7 +15,7 @@
                <year>2030</year>
                <country/>
                <guid isPermaLink="false">777777</guid>
-               <title>Updates Content with Year and Language</title>
+               <title>Creates Content with Year and Language</title>
                <media:title>Updates Content with Year and Language</media:title>
                <media:category>Action</media:category>
                <media:description>Revry/Revry Movies/Action is existing folder</media:description>
@@ -43,7 +43,7 @@
                <country/>
                <guid isPermaLink="false">777778</guid>
                <title>Updates Content with Year and Language</title>
-               <media:title>Updates Content with Year and Language</media:title>
+               <media:title>Creates Content with Year and Language</media:title>
                <media:category>Action</media:category>
                <media:description>Revry/Revry Movies/Action is existing folder</media:description>
                <media:content url="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/86d584a7.mp4" medium="video"/>
