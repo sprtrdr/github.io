@@ -1,0 +1,65 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/">
+   <partnerId>Deutsche Welle</partnerId>
+   <channels>
+      <channel>
+         <title>DW Selection</title>
+         <defineSeries/>
+         <items>
+            <item>
+               <allowMix>0</allowMix>
+               <videoType>2</videoType>
+               <playoutType>3</playoutType>
+               <availableStart/>
+               <availableEnd/>
+               <language>de</language>
+               <year>2022</year>
+               <country/>
+               <guid isPermaLink="false">89849</guid>
+               <title>Geheimnisvolle Brücke: Ponte Vecchio in Florenz</title>
+               <media:title>Geheimnisvolle Brücke: Ponte Vecchio in Florenz</media:title>
+               <media:category>Euromaxx</media:category>
+               <media:description>Ponte Vecchio ist eine der wichtigsten Brücken von Florenz. Das Besondere: Bis heute befinden sich Häuser und Geschäfte auf dem mittelalterlichen Bauwerk, um das sich zahlreiche Legenden und Geheimnisse ranken.</media:description>
+               <media:content url="https://tvdownloaddw-a.akamaihd.net/Events/mp4/emd/emd20220430_Beitrag2_PonteVecchio_hd.mp4" medium="video"/>
+               <media:thumbnail url="https://static.dw.com/image/61606910_403.jpeg"/>
+               <media:restriction relationship="allow" type="country"/>
+               <media:rating>Non-Adult</media:rating>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords/>
+               <series/>
+               <pubDate>2022-04-29 15:00:00</pubDate>
+               <adBreaks>
+                  <adBreak/>
+               </adBreaks>
+            </item>
+            <item>
+               <allowMix>0</allowMix>
+               <videoType>2</videoType>
+               <playoutType>3</playoutType>
+               <availableStart/>
+               <availableEnd/>
+               <language>de</language>
+               <year>2022</year>
+               <country/>
+               <guid isPermaLink="false">89848</guid>
+               <title>Solar-Designermöbel von Marjan van Aubel</title>
+               <media:title>Solar-Designermöbel von Marjan van Aubel</media:title>
+               <media:category>Euromaxx</media:category>
+               <media:description>Wenn es nach Marjan van Aubel geht, wird Sonnenenergie viel zu wenig genutzt. Deshalb entwirft die Designerin Solar-Möbel, von Lampen und Wandbehängen bis zu Schreibtischen. Ihr Ziel: Solarenergie alltagstauglich machen.</media:description>
+               <media:content url="https://tvdownloaddw-a.akamaihd.net/Events/mp4/emd/emd20220430_Beitrag4_Solar_hd.mp4" medium="video"/>
+               <media:thumbnail url="https://static.dw.com/image/61606991_403.jpeg"/>
+               <media:restriction relationship="allow" type="country"/>
+               <media:rating>Non-Adult</media:rating>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords/>
+               <series/>
+               <pubDate>2022-04-29 15:03:00</pubDate>
+               <adBreaks>
+                  <adBreak/>
+               </adBreaks>
+            </item>
+         </items>
+      </channel>
+   </channels>
+</rss>
