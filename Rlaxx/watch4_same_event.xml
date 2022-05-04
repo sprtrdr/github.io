@@ -2,7 +2,7 @@
    <partnerId>Watch4</partnerId>
    <channels>
       <channel>
-         <title>wedo movies DE</title>
+         <title>wedo movies EN</title>
          <defineSeries/>
          <items>
             <item>
@@ -14,7 +14,7 @@
                <language>en</language>
                <year>1925</year>
                <country/>
-               <guid isPermaLink="false">8844611</guid>
+               <guid isPermaLink="false">8844612</guid>
                <title>The Phantom of the Opera</title>
                <media:title>The Phantom of the Opera</media:title>
                <media:category>Filme</media:category>
@@ -41,7 +41,7 @@
                <language>en</language>
                <year>1970</year>
                <country/>
-               <guid isPermaLink="false">8844511</guid>
+               <guid isPermaLink="false">8844512</guid>
                <title>The Over the Hill Gang Rides Again</title>
                <media:title>The Over the Hill Gang Rides Again</media:title>
                <media:category>Filme</media:category>
