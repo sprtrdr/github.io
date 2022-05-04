@@ -1,0 +1,65 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/">
+   <partnerId>Deutsche Welle</partnerId>
+   <channels>
+      <channel>
+         <title>DW Selection</title>
+         <defineSeries/>
+         <items>
+            <item>
+               <allowMix>0</allowMix>
+               <videoType>1</videoType>
+               <playoutType>3</playoutType>
+               <availableStart/>
+               <availableEnd/>
+               <language>en</language>
+               <year>1925</year>
+               <country/>
+               <guid isPermaLink="false">8844611</guid>
+               <title>The Phantom of the Opera</title>
+               <media:title>The Phantom of the Opera</media:title>
+               <media:category>Filme</media:category>
+               <media:description>From the Golden Age of silent movies this iteration of a classic is fascinating. Disfigured and crazed, the Phantom haunts the Paris Opera House and seeks revenge on those that he believes have wronged him, </media:description>
+               <media:content url="https://cdn-01.watch4.com/01/VHvbGF.mp4?token=d9b644ec4bc53e830fdfe0b6d558b072" medium="video"/>
+               <media:thumbnail url="https://cdn-images.watch4.com/1280/2/1858.jpg"/>
+               <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE,AT,CH,DE</media:restriction>
+               <media:rating/>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords/>
+               <series/>
+               <pubDate>1925-01-01 00:00:00</pubDate>
+               <adBreaks>
+                  <adBreak/>
+               </adBreaks>
+            </item>
+            <item>
+               <allowMix>0</allowMix>
+               <videoType>1</videoType>
+               <playoutType>3</playoutType>
+               <availableStart/>
+               <availableEnd/>
+               <language>en</language>
+               <year>1970</year>
+               <country/>
+               <guid isPermaLink="false">8844511</guid>
+               <title>The Over the Hill Gang Rides Again</title>
+               <media:title>The Over the Hill Gang Rides Again</media:title>
+               <media:category>Filme</media:category>
+               <media:description>Der pensionierte Texas Ranger Nash Crawford stellt sein ehemaliges Ranger-Outfit aus alten Tagen wieder zusammen, um das Verbrechen in seiner Heimatstadt zu bekämpfen.</media:description>
+               <media:content url="https://cdn-01.watch4.com/01/BwuqbH.mp4?token=d9b644ec4bc53e830fdfe0b6d558b072" medium="video"/>
+               <media:thumbnail url="https://cdn-images.watch4.com/1280/2/1908.jpg"/>
+               <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE,AT,CH,DE</media:restriction>
+               <media:rating/>
+               <media:runtime/>
+               <media:subtitles/>
+               <keywords/>
+               <series/>
+               <pubDate>1970-01-01 00:00:00</pubDate>
+               <adBreaks>
+                  <adBreak/>
+               </adBreaks>
+            </item>
+         </items>
+      </channel>
+   </channels>
+</rss>
